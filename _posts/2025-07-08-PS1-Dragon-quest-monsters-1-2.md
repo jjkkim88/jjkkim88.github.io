@@ -1,8 +1,8 @@
 ---
-title: "드래곤 퀘스트 몬스터즈 1&2 (Dragon Qeust Monsters 1&2)"
+title: "(PS1) 드래곤 퀘스트 몬스터즈 1&2 (Dragon Qeust Monsters 1&2)"
 date: 2025-07-08
 categories: [PS1]
-tags: [Dragon Quest, Draon Quest Monsters, DQM, PS1, DQ]
+tags: [Dragon Quest, DQM, PS1, DQ, RPG]
 image:
   path: /assets/img/posts/ps1/DQM_thumb.jpg   # 썸네일 & 미리보기
   alt:  Dragon Quest Monsters 1&2 PS1 Boxart
