@@ -59,9 +59,9 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-M2PHHTQYR1
   goatcounter:
-    id: "jjkkim88"
+    id: jjkkim88
     pageviews: true
   umami:
     id: # fill in your Umami ID
