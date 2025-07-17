@@ -9,9 +9,7 @@ image:
   lqip: data:image/webp;base64,...         # 선택: LQIP 사용시
 ---
 
-# 두근두근 메모리얼 2 서브스토리즈 (Tokimeki Memorial 2 Substories / ときめきメモリアル2 Substories)
-
-## 📜 개요
+## 📜 두근두근 메모리얼 2 서브스토리즈 (Tokimeki Memorial 2 Substories / ときめきメモリアル2 Substories)
 
 《토키메키 메모리얼 2 서브스토리즈》는 1999년 발매된 《토키메키 메모리얼 2》의 미니게임 중심 스핀오프 시리즈입니다.  
 세 편으로 구성된 이 시리즈는 각 권마다 《토키메키 메모리얼 2》에 등장하는 히로인 세 명(마지막 권은 네 명)을 주인공으로 삼아,   

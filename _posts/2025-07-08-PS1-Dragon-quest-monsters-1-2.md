@@ -9,9 +9,7 @@ image:
   lqip: data:image/webp;base64,...         # 선택: LQIP 사용시
 ---
 
-# 드래곤 퀘스트 몬스터즈 1&2 (Dragon Quest Monsters 1&2 / ドラゴンクエストモンスターズ 1&2)
-
-## 📜 개요
+## 📜 드래곤 퀘스트 몬스터즈 1&2 (Dragon Quest Monsters 1&2 / ドラゴンクエストモンスターズ 1&2) 개요
 
 드래곤 퀘스트 몬스터즈 시리즈는 《드래곤 퀘스트 V》의 몬스터 조련 요소를 독립형 RPG로 확장한 명작입니다. 1998년 Game Boy Color(GB 컬러)로 첫 발을 뗀 ‘테리의 원더랜드’와 2001년 Game Boy Advance용 ‘몬스터즈 2’가 오리지널이며, 이후 PS1, 3DS, 스마트폰, 스위치 등으로 다수 리메이크·이식되었습니다.
 
