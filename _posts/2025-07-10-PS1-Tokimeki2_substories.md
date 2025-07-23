@@ -22,10 +22,10 @@ image:
 ![DQM표지](/assets/img/posts/ps1/DQM_front.jpg){: width="250px" } -->
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
-  <img src="/assets/img/posts/ps1/toki2sub_front.jpg" alt="북두의권 세기말구세주전설 표지">
-  <img src="/assets/img/posts/ps1/toki2sub_title.png" alt="북두의권 세기말구세주전설 타이틀">
-  <img src="/assets/img/posts/ps1/toki2sub_sc1.jpg" alt="북두의권 세기말구세주전설 스샷">
-  <img src="/assets/img/posts/ps1/toki2sub_sc2.png" alt="북두의권 세기말구세주전설 스샷">
+  <img src="/assets/img/posts/ps1/toki2sub_front.jpg" alt="토키메키 메모리얼 2 서브스토리즈 표지">
+  <img src="/assets/img/posts/ps1/toki2sub_title.png" alt="토키메키 메모리얼 2 서브스토리즈 타이틀">
+  <img src="/assets/img/posts/ps1/toki2sub_sc1.jpg" alt="토키메키 메모리얼 2 서브스토리즈 스샷">
+  <img src="/assets/img/posts/ps1/toki2sub_sc2.png" alt="토키메키 메모리얼 2 서브스토리즈 스샷">
 </div>
 
 
