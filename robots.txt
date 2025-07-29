@@ -4,6 +4,5 @@ layout: null    # 레이아웃 적용 금지
 
 User-agent: *
 Allow: /
-Disallow: /norobots/
 
 Sitemap: {{ '/sitemap.xml' | absolute_url }}
