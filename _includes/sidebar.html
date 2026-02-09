@@ -39,9 +39,24 @@
       {% endfor %}
     </ul>
   </nav>
-  <!--div class="align-items-center w-100" style="text-align: center; margin-bottom: 1rem;">
-    <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fjjkkim88.github.io?color=gray&label=hits&size=small" alt="hits" /></a>
-  </div-->
+  <div class="align-items-center w-100" style="text-align: center; margin-bottom: 1rem;">
+    <small class="text-muted">
+      <i class="fas fa-eye me-1"></i><span id="sidebar-pv"><i class="fas fa-spinner fa-spin"></i></span> views
+    </small>
+  </div>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      var el = document.getElementById('sidebar-pv');
+      if (!el) return;
+      var path = location.pathname.replace(/\/$/, '') || '/';
+      fetch('https://{{ site.analytics.goatcounter.id }}.goatcounter.com/counter/' + encodeURIComponent(path) + '.json')
+        .then(function(r) { return r.json(); })
+        .then(function(data) {
+          el.textContent = new Intl.NumberFormat().format(data.count.replace(/\s/g, ''));
+        })
+        .catch(function() { el.textContent = '-'; });
+    });
+  </script>
 
   <div class="sidebar-bottom d-flex flex-wrap  align-items-center w-100">
     {% unless site.theme_mode %}
