@@ -4,7 +4,7 @@ date: 2026-02-10
 categories: [NDS]
 tags: [NDS, shooter, shmup]
 image:
-  path: /assets/img/posts/nds/dc6807b5_cover.png
+  path: /assets/img/posts/nds/nanostray_thumb.png
   alt: 나노스트레이 Boxart
 ---
 
@@ -13,6 +13,13 @@ image:
 **나노스트레이**는 **닌텐도 DS(NDS)**로 출시된 세로 스크롤 슈팅 게임입니다. 휴대용 기기에서 짧게 끊어 즐기기 좋은 구조 속에서, 스테이지 진행과 보스전 중심의 “정통 슈팅” 감각을 담는 쪽에 초점을 맞춥니다.
 
 ---
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+  <img src="/assets/img/posts/nds/nanostray_front.jpg" alt="록맨 X8 표지">
+  <img src="/assets/img/posts/nds/nanostray_title.jpg" alt="록맨 X8 타이틀">
+  <img src="/assets/img/posts/nds/nanostray_sc1.jpg" alt="록맨 X8 스크린샷1">
+  <img src="/assets/img/posts/nds/nanostray_sc2.jpg" alt="록맨 X8 스크린샷2">
+</div>
 
 ## 📅 출시 정보
 
