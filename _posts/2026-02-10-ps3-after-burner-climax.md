@@ -2,7 +2,10 @@
 title: "(PS3) 애프터 버너 클라이맥스 (After Burner Climax)"
 date: 2026-02-10
 categories: [PS3]
-tags: [PS3, shooter, arcade, Sega]
+tags: [PS3, shooter, arcade, Sega, shooting]
+image:
+  path: /assets/img/posts/ps3/afterburner_thumb.webp
+  alt: After Burner Climax Boxart
 ---
 
 ## 📜 애프터 버너 클라이맥스 (After Burner Climax)
@@ -10,6 +13,14 @@ tags: [PS3, shooter, arcade, Sega]
 **애프터 버너 클라이맥스(After Burner Climax)**는 **PS3**에서 즐길 수 있는 **아케이드 스타일의 비행 슈팅 게임**입니다. 빠른 속도감과 과감한 연출을 앞세워, 짧게 집중해서 “한 판” 즐기기 좋은 구성이 핵심이에요.
 
 ---
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+  <img src="/assets/img/posts/ps3/afterburner_front.png" alt="애프터버너 클라이막스 표지">
+  <img src="/assets/img/posts/ps3/afterburner_title.jpg" alt="애프터버너 클라이막스 타이틀">
+  <img src="/assets/img/posts/ps3/afterburner_sc1.jpg" alt="애프터버너 클라이막스 스샷">
+  <img src="/assets/img/posts/ps3/afterburner_sc2.jpg" alt="애프터버너 클라이막스 스샷">
+</div>
+
 
 ## 🛠️ 핵심 시스템
 
