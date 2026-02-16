@@ -5,7 +5,7 @@ categories: [DreamCast]
 tags: [DreamCast, simulation, strategy, tycoon]
 image:
   path: /assets/img/posts/dreamcast/RailroadTycoon2_thumb.png
-  alt: Wipeout Boxart
+  alt: Railroad Tycoon 2 Boxart
 ---
 
 ## 📜 레일로드 타이쿤 2 골드 에디션 (Railroad Tycoon 2 Gold Edition)
