@@ -2,14 +2,25 @@
 title: "(3DS) 원피스 슈퍼 그랜드 배틀X (One Piece: Super Grand Battle! X)"
 date: 2026-02-10
 categories: [3DS]
-tags: [3DS, fighting, OnePiece]
+tags: [3DS, fighting, OnePiece, Action]
+image:
+  path: /assets/img/posts/3ds/onex_thumb.jpg
+  alt: Wipeout Boxart
 ---
 
-## 📜 원피스 슈퍼 그랜드 배틀X (One Piece: Super Grand Battle! X)
+## 📜 원피스 슈퍼 그랜드 배틀X (One Piece: Super Grand Battle! X / ワンピース 超グランドバトル！X)
 
 **원피스 슈퍼 그랜드 배틀X**는 『원피스』 세계관의 캐릭터들을 조작해 대전을 즐기는 **Nintendo 3DS**용 액션/대전 게임입니다. 원작 팬이라면 익숙한 인물들을 골라 “한 판”씩 빠르게 즐기는 타입으로 접근하면 감이 좋습니다.
 
 ---
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+  <img src="/assets/img/posts/3ds/onex_front.jpg" alt="원피스슈퍼그랜드배틀X 표지">
+  <img src="/assets/img/posts/3ds/onex_title.jpg" alt="원피스슈퍼그랜드배틀X 타이틀">
+  <img src="/assets/img/posts/3ds/onex_sc1.jpg" alt="원피스슈퍼그랜드배틀X 스샷">
+  <img src="/assets/img/posts/3ds/onex_sc2.jpg" alt="원피스슈퍼그랜드배틀X 스샷">
+</div>
+
 
 ## ⚙️ 주요 특징
 
