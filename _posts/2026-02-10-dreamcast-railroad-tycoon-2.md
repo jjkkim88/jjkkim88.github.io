@@ -1,15 +1,26 @@
 ---
-title: "(DreamCast) 레일로드 타이쿤 2"
+title: "(DreamCast) 레일로드 타이쿤 2 골드 에디션"
 date: 2026-02-10
 categories: [DreamCast]
 tags: [DreamCast, simulation, strategy, tycoon]
+image:
+  path: /assets/img/posts/dreamcast/RailroadTycoon2_thumb.png
+  alt: Wipeout Boxart
 ---
 
-## 📜 레일로드 타이쿤 2
+## 📜 레일로드 타이쿤 2 골드 에디션 (Railroad Tycoon 2 Gold Edition)
 
 **레일로드 타이쿤 2**는 철도 노선을 깔고 열차를 운용하면서 수익을 만들어가는 **철도 경영 시뮬레이션**으로, **세가 드림캐스트(DreamCast)**에서도 즐길 수 있는 작품입니다. 도시와 산업의 흐름을 읽어 노선을 연결하고, 차량·노선 운영을 최적화해 ‘회사’가 커지는 맛을 노리는 타입이에요.
 
 ---
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+  <img src="/assets/img/posts/dreamcast/RailroadTycoon2_front.jpg" alt="레일로드 타이쿤2 표지">
+  <img src="/assets/img/posts/dreamcast/RailroadTycoon2_title.png" alt="레일로드 타이쿤2 타이틀">
+  <img src="/assets/img/posts/dreamcast/RailroadTycoon2_sc1.jpg" alt="레일로드 타이쿤2 스샷">
+  <img src="/assets/img/posts/dreamcast/RailroadTycoon2_sc2.jpg" alt="레일로드 타이쿤2 스샷">
+</div>
+
 
 ## 📅 출시 정보
 
