@@ -1,18 +1,26 @@
 ---
-title: "(Saturn) 와이프 아웃"
+title: "(Saturn) 와이프 아웃 (Wipeout)"
 date: 2026-02-15
 categories: [Saturn]
 tags: [Saturn, racing]
 image:
-  path: /assets/img/posts/saturn/42983ca2_cover.jpg
+  path: /assets/img/posts/saturn/wipe_thumb.jpg
   alt: Wipeout Boxart
 ---
 
-## 📜 와이프 아웃
+## 📜 와이프 아웃 (Wipeout / ワイプアウト)
 
 **와이프 아웃**은(는) **Saturn**에서 즐길 수 있는 **레이싱 게임**입니다. 빠른 속도감과 코스 공략(라인 잡기, 코너 탈출 속도 유지 등)에 집중하는 타입이라, 짧게 한 판 돌려도 ‘주행 감각’을 남기는 쪽으로 재미가 옵니다.
 
 ---
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+  <img src="/assets/img/posts/saturn/wipe_front.jpg" alt="와이프아웃 표지">
+  <img src="/assets/img/posts/saturn/wipe_title.png" alt="와이프아웃 타이틀">
+  <img src="/assets/img/posts/saturn/wipe_sc1.jpg" alt="와이프아웃 스샷">
+  <img src="/assets/img/posts/saturn/wipe_sc2.jpg" alt="와이프아웃 스샷">
+</div>
+
 
 ## 🛠️ 핵심 시스템
 
