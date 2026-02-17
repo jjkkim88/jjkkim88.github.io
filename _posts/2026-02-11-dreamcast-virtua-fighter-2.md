@@ -4,7 +4,7 @@ date: 2026-02-11
 categories: [DreamCast]
 tags: [DreamCast, fighting, sega, action]
 image:
-  path: /assets/img/posts/dreamcast/vf2_thumb.png
+  path: /assets/img/posts/dreamcast/vf2_thumb.jpg
   alt: Virtua Fighter Boxart
 ---
 
