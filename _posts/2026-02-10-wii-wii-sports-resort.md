@@ -2,7 +2,10 @@
 title: "(Wii) 위 스포츠 리조트 (Wii Sports Resort)"
 date: 2026-02-10
 categories: [Wii]
-tags: [Wii, sports, party, Nintendo, motion-controls]
+tags: [Wii, sports, party, Nintendo]
+image:
+  path: /assets/img/posts/wii/wii_sport_resort_thumb.webp
+  alt: Wii Sports Resort Boxart
 ---
 
 ## 📜 위 스포츠 리조트 (Wii Sports Resort)
@@ -10,6 +13,13 @@ tags: [Wii, sports, party, Nintendo, motion-controls]
 **위 스포츠 리조트**는 닌텐도가 Wii로 선보인 스포츠 게임으로, 휴양지(리조트) 콘셉트 안에서 다양한 종목을 “가볍게 한 판”씩 즐기는 구성이 특징입니다. **Wii**의 모션 조작을 적극적으로 활용하며, 종목에 따라 **Wii 모션플러스(또는 Wii 리모컨 플러스)**가 필요합니다.
 
 ---
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+  <img src="/assets/img/posts/wii/wii_sport_resort_front.webp" alt="위 스포츠 리조트 표지">
+  <img src="/assets/img/posts/wii/wii_sport_resort_title.jpg" alt="위 스포츠 리조트 타이틀">
+  <img src="/assets/img/posts/wii/wii_sport_resort_sc1.jpg" alt="위 스포츠 리조트 스크린샷1">
+  <img src="/assets/img/posts/wii/wii_sport_resort_sc2.jpg" alt="위 스포츠 리조트 스크린샷2">
+</div>
 
 ## ⚙️ 주요 특징
 
