@@ -2,7 +2,10 @@
 title: "(DreamCast) 버추어 파이터 2 (Virtua Fighter 2)"
 date: 2026-02-11
 categories: [DreamCast]
-tags: [DreamCast, fighting, sega]
+tags: [DreamCast, fighting, sega, action]
+image:
+  path: /assets/img/posts/dreamcast/vf2_thumb.png
+  alt: Virtua Fighter Boxart
 ---
 
 ## 📜 버추어 파이터 2
@@ -10,6 +13,13 @@ tags: [DreamCast, fighting, sega]
 **버추어 파이터 2**는 **DreamCast**에서 즐길 수 있는 **세가(SEGA)의 3D 대전 격투 게임**입니다. 과장된 연출보다 **기본기(거리·가드·확정타)**를 쌓아가는 쪽에 무게가 실린 스타일이라, 정통파 격투를 좋아한다면 한 번쯤 체크해볼 만한 작품입니다.
 
 ---
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+  <img src="/assets/img/posts/dreamcast/vf2_front.jpg" alt="버추어 파이터2 표지">
+  <img src="/assets/img/posts/dreamcast/vf2_title.png" alt="버추어 파이터2 타이틀">
+  <img src="/assets/img/posts/dreamcast/vf2_sc1.png" alt="버추어 파이터2 스샷">
+  <img src="/assets/img/posts/dreamcast/vf2_sc2.jpg" alt="버추어 파이터2 스샷">
+</div>
 
 ## 🛠️ 핵심 시스템
 
