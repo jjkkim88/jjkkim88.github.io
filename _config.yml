@@ -16,10 +16,10 @@ timezone: Asia/Seoul
 
 title: GAME GAME # the main title
 
-tagline: GAMEZ # it will display as the subtitle
+tagline: Retro Gamez # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Retro gamez.
+  90년대~2000년대 레트로 게임 리뷰 블로그. PS1, PS2, PSP, Saturn, DreamCast, NDS, Wii 등 다양한 플랫폼의 클래식 게임을 직접 소개 하고 리뷰합니다.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -36,14 +36,8 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: jjkkim88
-  email: example@domain.com # change to your email address
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://github.com/jjkkim88
 
 # Site Verification Settings
 webmaster_verifications:
