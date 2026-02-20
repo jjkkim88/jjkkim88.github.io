@@ -1,5 +1,6 @@
 ---
-title: "(PS1) 드래곤 퀘스트 몬스터즈 1&2 (Dragon Qeust Monsters 1&2)"
+title: "(PS1) 드래곤 퀘스트 몬스터즈 1&2 (Dragon Quest Monsters 1&2)"
+description: "PS1 드래곤 퀘스트 몬스터즈 1&2 리뷰. 몬스터 포획과 브리딩 시스템, GBC 원작부터 PS1·3DS·스위치 리메이크까지 시리즈 전체를 비교 소개합니다."
 date: 2025-07-08
 categories: [PS1]
 tags: [Dragon Quest, DQM, PS1, DQ, RPG]
@@ -19,10 +20,10 @@ image:
 ![DQM표지](/assets/img/posts/ps1/DQM_front.jpg){: width="250px" } -->
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
-  <img src="/assets/img/posts/ps1/DQM_front.jpg" alt="DQM 표지">
-  <img src="/assets/img/posts/ps1/DQM_title.jpg" alt="DQM 타이틀">
-  <img src="/assets/img/posts/ps1/DQM_screen.jpg" alt="DQM 스샷">
-  <img src="/assets/img/posts/ps1/DQM_screen2.png" alt="DQM 스샷">
+  <img src="/assets/img/posts/ps1/DQM_front.jpg" alt="드래곤퀘스트 몬스터즈 PS1 표지">
+  <img src="/assets/img/posts/ps1/DQM_title.jpg" alt="드래곤퀘스트 몬스터즈 PS1 타이틀">
+  <img src="/assets/img/posts/ps1/DQM_screen.jpg" alt="드래곤퀘스트 몬스터즈 PS1 스샷1">
+  <img src="/assets/img/posts/ps1/DQM_screen2.png" alt="드래곤퀘스트 몬스터즈 PS1 스샷2">
 </div>
 
 ---
@@ -113,6 +114,23 @@ image:
 
 ---
 
+## 🎮 플레이 후기
 
-<!-- *작성자: jjkkim88*  
-*발행일: 2025년 7월 8일*   -->
+처음 이 게임을 접한 건 GBC판 테리의 원더랜드였다. 포켓몬스터와 비슷한 몬스터 수집 게임이라고 해서 가볍게 시작했는데, 브리딩 시스템의 깊이에 완전히 빠져들었다. 단순히 몬스터를 잡는 게 아니라, 어떤 조합으로 더 강한 몬스터를 만들 수 있을지 고민하는 재미가 핵심이다.
+
+PS1판은 GBC의 도트 그래픽이 3D로 바뀌면서 몬스터들의 모습이 훨씬 생동감 있게 느껴졌다. 특히 브리딩으로 탄생한 몬스터가 3D로 움직이는 걸 보면 괜히 뿌듯하다. 다만 일본 전용 발매라 언어 장벽이 있는데, 메뉴 구조가 직관적이라 기본적인 카타카나만 읽을 수 있으면 플레이에 큰 무리는 없다.
+
+1편과 2편이 한 디스크에 들어있어서 볼륨도 충분하다. 1편으로 시스템에 익숙해진 뒤 2편의 확장된 조합과 탐험 요소를 즐기면 자연스럽게 수백 시간을 투자하게 된다. 레트로 몬스터 육성 RPG를 찾고 있다면 가장 먼저 추천하고 싶은 타이틀이다.
+
+2002년 게임이지만, 지금 해도 충분히 재미있다. 몬스터 조합의 전략적 깊이는 최신 게임과 비교해도 뒤지지 않고, 오히려 요즘 몬스터 육성 게임들이 단순화된 부분을 이 게임에서는 제대로 파고들 수 있다. PS1 특유의 로우폴리 3D 그래픽도 지금 보면 오히려 독특한 매력이 있다.
+
+다만 현대 게임에 익숙한 플레이어라면 UI가 다소 불편하게 느껴질 수 있고, 자동 저장이 없어서 세이브 관리에 신경 써야 한다. 물론 자동 저장은 에뮬레이터에서 돌리면 해결되기는 한다. 그래도 몬스터 수집과 조합이라는 핵심 루프 자체가 워낙 중독성이 강해서, 한번 빠지면 불편함은 금방 잊게 된다. 드퀘 몬스터즈 시리즈의 원점을 경험하고 싶다면 지금이라도 꼭 해볼 가치가 있다.
+
+---
+
+## 🔗 참고 링크
+
+- [드래곤 퀘스트 몬스터즈: 테리의 원더랜드 - 나무위키](https://namu.wiki/w/%EB%93%9C%EB%9E%98%EA%B3%A4%20%ED%80%98%EC%8A%A4%ED%8A%B8%20%EB%AA%AC%EC%8A%A4%ED%84%B0%EC%A6%88:%20%ED%85%8C%EB%A6%AC%EC%9D%98%20%EC%9B%90%EB%8D%94%EB%9E%9C%EB%93%9C)
+- [Dragon Quest Monsters 1·2 - Dragon Quest Wiki (Fandom)](https://dragonquest.fandom.com/wiki/Dragon_Quest_Monsters_1%C2%B72)
+- [ドラゴンクエストモンスターズ1・2 - Wikipedia (일본어)](https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA1%E3%83%BB2_%E6%98%9F%E9%99%8D%E3%82%8A%E3%81%AE%E5%8B%87%E8%80%85%E3%81%A8%E7%89%A7%E5%A0%B4%E3%81%AE%E4%BB%B2%E9%96%93%E3%81%9F%E3%81%A1)
+- [PS1 공식 페이지 - Square Enix](https://www.jp.square-enix.com/dragonquest/psdqm12/top.html)
