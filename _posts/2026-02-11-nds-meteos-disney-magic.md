@@ -3,7 +3,7 @@ title: "(NDS) 메테오스 디즈니 매직 (Meteos Disney Magic DS)"
 description: "NDS 메테오스 디즈니 매직 리뷰. 원작 메테오스와의 차이점, 디즈니 월드별 소개, 점화·연쇄 공략 팁, 게임 모드 정리까지 한눈에 확인하세요."
 date: 2026-02-11
 categories: [NDS]
-tags: [NDS, puzzle, Disney, Meteos]
+tags: [NDS, puzzle, Disney, Meteos, 공략, 팁]
 image:
   path: /assets/img/posts/nds/meteos_disney_thumb.jpg
   alt: Meteos Disney Magic Boxart

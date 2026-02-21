@@ -3,7 +3,7 @@ title: "(PS2) 드래곤볼Z 2 (Dragon Ball Z: Budokai 2)"
 description: "PS2 드래곤볼Z2 리뷰. 한글판 정발 정보, 드래곤 셰이딩 그래픽, 29명 캐릭터 로스터, 퓨전 시스템, 보드게임 스토리 모드, 캡슐 커스터마이즈 공략까지 정리합니다."
 date: 2026-02-11
 categories: [PS2]
-tags: [PS2, Dragon Ball, fighting, Bandai, Dimps]
+tags: [PS2, Dragon Ball, fighting, Bandai, 팁]
 image:
   path: /assets/img/posts/ps2/dbz2_thumb.jpg
   alt: Dragon Ball Z 2 PS2 Boxart

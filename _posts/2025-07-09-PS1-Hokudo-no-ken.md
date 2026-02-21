@@ -3,7 +3,7 @@ title: "(PS1) 북두의권: 세기말 구세주 전설 (Hokuto no Ken: Seikimats
 description: "PS1 북두의권 세기말 구세주 전설 리뷰. 원작 만화 소개부터 리얼타임 아베시 시스템, 14명 캐릭터 해금법, 공략 팁, 이 게임이 북두 팬에게 사랑받는 이유까지 정리합니다."
 date: 2025-07-10
 categories: [PS1]
-tags: [PS1, Hokuto no Ken, action, Bandai]
+tags: [PS1, Hokuto no Ken, action, Bandai, 팁]
 image:
   path: /assets/img/posts/ps1/Hokuto_thumb.jpg
   alt: Hokuto no Ken Seikimatsu Kyuseishu Densetsu PS1 Boxart
