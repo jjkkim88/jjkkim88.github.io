@@ -7,7 +7,6 @@ tags: [PS3, Metal Gear Solid, MGS4, Kojima, action, 공략, 팁]
 image:
   path: /assets/img/posts/ps3/mgs4_thumb.jpg
   alt: Metal Gear Solid 4 Guns of the Patriots PS3 Boxart
-  lqip: data:image/webp;base64,...
 ---
 
 ## 📜 메탈 기어 솔리드 4 건즈 오브 패트리어트 (Metal Gear Solid 4: Guns of the Patriots / メタルギア ソリッド 4 ガンズ・オブ・ザ・パトリオット) 개요

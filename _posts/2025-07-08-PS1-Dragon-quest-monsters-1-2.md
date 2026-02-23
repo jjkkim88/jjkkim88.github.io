@@ -7,7 +7,6 @@ tags: [Dragon Quest, DQM, PS1, DQ, RPG]
 image:
   path: /assets/img/posts/ps1/DQM_thumb.jpg   # 썸네일 & 미리보기
   alt:  Dragon Quest Monsters 1&2 PS1 Boxart
-  lqip: data:image/webp;base64,...         # 선택: LQIP 사용시
 ---
 
 ## 📜 드래곤 퀘스트 몬스터즈 1&2 (Dragon Quest Monsters 1&2 / ドラゴンクエストモンスターズ 1&2) 개요
@@ -16,14 +15,11 @@ image:
 
 ---
 
-<!-- <img src="/assets/img/posts/ps1/DQM_front.jpg" alt="DQM 표지">
-![DQM표지](/assets/img/posts/ps1/DQM_front.jpg){: width="250px" } -->
-
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
   <img src="/assets/img/posts/ps1/DQM_front.jpg" alt="드래곤퀘스트 몬스터즈 PS1 표지">
   <img src="/assets/img/posts/ps1/DQM_title.jpg" alt="드래곤퀘스트 몬스터즈 PS1 타이틀">
-  <img src="/assets/img/posts/ps1/DQM_screen.jpg" alt="드래곤퀘스트 몬스터즈 PS1 스샷1">
-  <img src="/assets/img/posts/ps1/DQM_screen2.png" alt="드래곤퀘스트 몬스터즈 PS1 스샷2">
+  <img src="/assets/img/posts/ps1/DQM_screen.jpg" alt="드래곤 퀘스트 몬스터즈 PS1 전투 화면">
+  <img src="/assets/img/posts/ps1/DQM_screen2.png" alt="드래곤 퀘스트 몬스터즈 PS1 몬스터 조합 화면">
 </div>
 
 ---

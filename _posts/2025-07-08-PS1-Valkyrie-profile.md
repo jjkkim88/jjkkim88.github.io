@@ -7,7 +7,6 @@ tags: [PS1, Valkyrie Profile, RPG, ARPG]
 image:
   path: /assets/img/posts/ps1/Valkyrie_thumb.png   # 썸네일 & 미리보기
   alt:  Valkyrie Profile PS1 Boxart
-  lqip: data:image/webp;base64,...         # 선택: LQIP 사용시
 ---
 
 ## 📜 발키리 프로파일 (Valkyrie Profile / ヴァルキリープロファイル)
