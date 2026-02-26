@@ -1,5 +1,6 @@
 ---
 title: "(PS3) 로로나의 아틀리에 (Atelier Rorona: The Alchemist of Arland)"
+published: false
 date: 2026-02-26
 categories: [PS3]
 tags: [PS3, 아틀리에, 연금술, JRPG, 거스트]
