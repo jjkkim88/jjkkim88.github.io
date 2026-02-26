@@ -1,5 +1,6 @@
 ---
 title: "(DreamCast) 월드 시리즈 베이스볼 2K1 (World Series Baseball 2K1)"
+published: false
 date: 2026-02-17
 categories: [DreamCast]
 tags: [DreamCast, 스포츠, 야구, World Series Baseball]

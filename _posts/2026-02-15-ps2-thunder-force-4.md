@@ -1,5 +1,6 @@
 ---
 title: "(PS2) 썬더포스 4 (Thunder Force IV)"
+published: false
 date: 2026-02-15
 categories: [PS2]
 tags: [PS2, 슈팅, 횡스크롤, 레트로]

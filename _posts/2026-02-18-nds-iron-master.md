@@ -1,5 +1,6 @@
 ---
 title: "(NDS) 아이언 마스터"
+published: false
 date: 2026-02-18
 categories: [NDS]
 tags: [NDS, simulation, management, crafting]

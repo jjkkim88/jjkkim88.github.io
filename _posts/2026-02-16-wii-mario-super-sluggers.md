@@ -1,5 +1,6 @@
 ---
 title: "(Wii) 마리오 슈퍼 슬러거 (Mario Super Sluggers)"
+published: false
 date: 2026-02-16
 categories: [Wii]
 tags: [Wii, 스포츠, 야구, 마리오]

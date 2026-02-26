@@ -1,5 +1,6 @@
 ---
 title: "(PS1) 그라디우스 디럭스 팩"
+published: false
 date: 2026-02-16
 categories: [PS1]
 tags: [PS1, 슈팅, 코나미, Gradius]

@@ -1,5 +1,6 @@
 ---
 title: "(NDS) 루미너스 아크 2"
+published: false
 date: 2026-02-19
 categories: [NDS]
 tags: [NDS, SRPG, RPG]

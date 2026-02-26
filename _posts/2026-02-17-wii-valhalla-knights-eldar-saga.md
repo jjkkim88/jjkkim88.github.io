@@ -1,5 +1,6 @@
 ---
 title: "(Wii) 발할라 나이츠 (Valhalla Knights: Eldar Saga)"
+published: false
 date: 2026-02-17
 categories: [Wii]
 tags: [Wii, RPG, 액션RPG, Valhalla Knights]

@@ -1,5 +1,6 @@
 ---
 title: "(Saturn) 하우스 오브 데드 (The House of the Dead)"
+published: false
 date: 2026-02-19
 categories: [Saturn]
 tags: [Saturn, shooter, rail-shooter, horror, Sega]

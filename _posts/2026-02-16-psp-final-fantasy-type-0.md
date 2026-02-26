@@ -1,5 +1,6 @@
 ---
 title: "(PSP) 파이널 판타지 타입0 (Final Fantasy Type-0)"
+published: false
 date: 2026-02-16
 categories: [PSP]
 tags: [PSP, RPG, 액션, Final Fantasy, 스퀘어에닉스]

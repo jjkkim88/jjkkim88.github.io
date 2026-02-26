@@ -1,5 +1,6 @@
 ---
 title: "(3DS) 포켓몬스터 초 불가사의 던전 (Pokémon Super Mystery Dungeon)"
+published: false
 date: 2026-02-25
 categories: [3DS]
 tags: [3DS, 포켓몬, 불가사의던전, 던전RPG]

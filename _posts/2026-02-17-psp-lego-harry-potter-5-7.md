@@ -1,5 +1,6 @@
 ---
 title: "(PSP) 레고 해리포터 5-7 (Lego Harry Potter: Years 5–7)"
+published: false
 date: 2026-02-17
 categories: [PSP]
 tags: [PSP, 액션 어드벤처, 퍼즐, LEGO, Harry Potter]

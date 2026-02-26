@@ -1,5 +1,6 @@
 ---
 title: "(PS3) 닌자 가이덴 시그마 1 (Ninja Gaiden Sigma)"
+published: false
 date: 2026-02-23
 categories: [PS3]
 tags: [PS3, 액션, 핵앤슬래시, 닌자 가이덴]

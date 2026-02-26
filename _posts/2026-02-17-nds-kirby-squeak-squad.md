@@ -1,5 +1,6 @@
 ---
 title: "(NDS) 별의커비 도팡일당의 습격 (Kirby: Squeak Squad)"
+published: false
 date: 2026-02-17
 categories: [NDS]
 tags: [NDS, 액션, 플랫폼, Kirby, HAL Laboratory, Nintendo]

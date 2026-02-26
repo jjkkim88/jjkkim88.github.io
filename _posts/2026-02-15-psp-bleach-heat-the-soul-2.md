@@ -1,5 +1,6 @@
 ---
 title: "(PSP) 블리치 히트 더 소울 2 (Bleach: Heat the Soul)"
+published: false
 date: 2026-02-15
 categories: [PSP]
 tags: [PSP, 대전액션, 격투, 애니원작, 블리치]

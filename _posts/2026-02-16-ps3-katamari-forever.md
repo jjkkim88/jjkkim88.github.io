@@ -1,5 +1,6 @@
 ---
 title: "(PS3) 괴혼포에버 (Katamari Forever)"
+published: false
 date: 2026-02-16
 categories: [PS3]
 tags: [PS3, 액션, 퍼즐, Katamari, 남코]

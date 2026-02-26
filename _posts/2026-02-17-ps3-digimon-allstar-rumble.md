@@ -1,5 +1,6 @@
 ---
 title: "(PS3) 디지몬 올스타 럼블 (Digimon All-Star Rumble)"
+published: false
 date: 2026-02-17
 categories: [PS3]
 tags: [PS3, 대전액션, Digimon]

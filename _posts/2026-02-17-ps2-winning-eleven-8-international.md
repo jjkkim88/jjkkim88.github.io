@@ -1,5 +1,6 @@
 ---
 title: "(PS2) 위닝 일레븐 8 인터내셔널 (Pro Evolution Soccer 4)"
+published: false
 date: 2026-02-17
 categories: [PS2]
 tags: [PS2, 스포츠, 축구, KONAMI, PES]

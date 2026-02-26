@@ -1,5 +1,6 @@
 ---
 title: "(Saturn) 와이프 아웃 (Wipeout)"
+published: false
 date: 2026-02-15
 categories: [Saturn]
 tags: [Saturn, racing]

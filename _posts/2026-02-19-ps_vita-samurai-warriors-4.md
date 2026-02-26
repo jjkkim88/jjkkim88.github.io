@@ -1,5 +1,6 @@
 ---
 title: "(PS_VITA) 전국무쌍 4 (Samurai Warriors 4)"
+published: false
 date: 2026-02-19
 categories: [PS_VITA]
 tags: [PS_VITA, 핵앤슬래시, 코에이테크모, 전국무쌍]

@@ -1,5 +1,6 @@
 ---
 title: "(NDS) 터치 퍼즐 DS"
+published: false
 date: 2026-02-16
 categories: [NDS]
 tags: [NDS, 퍼즐, 터치]

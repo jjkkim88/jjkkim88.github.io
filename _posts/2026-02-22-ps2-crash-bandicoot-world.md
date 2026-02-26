@@ -1,5 +1,6 @@
 ---
 title: "(PS2) 크래쉬 밴디쿳 월드"
+published: false
 date: 2026-02-22
 categories: [PS2]
 tags: [PS2, 액션, 플랫폼, 크래쉬밴디쿳]

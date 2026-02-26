@@ -1,5 +1,6 @@
 ---
 title: "(Saturn) J리그 빅토리 골 96"
+published: false
 date: 2026-02-16
 categories: [Saturn]
 tags: [Saturn, 스포츠, 축구]

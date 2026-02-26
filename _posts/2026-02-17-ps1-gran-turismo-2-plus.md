@@ -1,5 +1,6 @@
 ---
 title: "(PS1) 그란투리스모2 플러스 (Gran Turismo 2 Plus)"
+published: false
 date: 2026-02-17
 categories: [PS1]
 tags: [PS1, 레이싱, 자동차, Gran Turismo]

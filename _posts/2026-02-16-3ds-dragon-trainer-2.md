@@ -1,5 +1,6 @@
 ---
 title: "(3DS) 드래곤 길들이기 2"
+published: false
 date: 2026-02-16
 categories: [3DS]
 tags: [3DS, 액션, 어드벤처]

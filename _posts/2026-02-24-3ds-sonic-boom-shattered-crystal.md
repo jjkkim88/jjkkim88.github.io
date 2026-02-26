@@ -1,5 +1,6 @@
 ---
 title: "(3DS) 소닉 붐 - 섀터레드 크리스탈 (Sonic Boom: Shattered Crystal)"
+published: false
 date: 2026-02-24
 categories: [3DS]
 tags: [3DS, 액션, 플랫폼, 소닉]

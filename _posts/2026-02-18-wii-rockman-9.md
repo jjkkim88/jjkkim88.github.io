@@ -1,5 +1,6 @@
 ---
 title: "(Wii) 록맨 9 (Mega Man 9)"
+published: false
 date: 2026-02-18
 categories: [Wii]
 tags: [Wii, 액션, 플랫폼, 록맨, 캡콤, 인티 크리에이츠, WiiWare]

@@ -1,5 +1,6 @@
 ---
 title: "(DreamCast) 파이어 프로레슬링 D (Fire Pro Wrestling D)"
+published: false
 date: 2026-02-16
 categories: [DreamCast]
 tags: [DreamCast, 스포츠, 프로레슬링]

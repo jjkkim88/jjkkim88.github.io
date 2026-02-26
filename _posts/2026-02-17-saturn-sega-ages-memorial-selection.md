@@ -1,5 +1,6 @@
 ---
 title: "(Saturn) 세가 에이지스 메모리얼 셀렉션"
+published: false
 date: 2026-02-17
 categories: [Saturn]
 tags: [Saturn, 컴필레이션, Sega Ages]

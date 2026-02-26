@@ -1,5 +1,6 @@
 ---
 title: "(PS_VITA) 블레이즈블루 크로노 판타즈마 (BlazBlue: Chrono Phantasma)"
+published: false
 date: 2026-02-17
 categories: [PS_VITA]
 tags: [PS_VITA, 격투, 2D 격투, BlazBlue, Arc System Works]

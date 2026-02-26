@@ -1,5 +1,6 @@
 ---
 title: "(3DS) 메다롯트 7 쿠와가타 버전"
+published: false
 date: 2026-02-17
 categories: [3DS]
 tags: [3DS, RPG, 로봇, 커스터마이즈, 턴제 배틀, 메다롯트]
