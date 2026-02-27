@@ -3,7 +3,7 @@ title: "(PSP) 스즈미야 하루히의 약속 (涼宮ハルヒの約束)"
 description: "PSP 스즈미야 하루히의 약속 리뷰. SOS 시스템(Motion Portrait), 타임루프 오리지널 스토리, 14개 이상 엔딩, 미니게임, 비공식 한글 패치 정보까지 정리합니다."
 date: 2026-02-12
 categories: [PSP]
-tags: [PSP, adventure, visual-novel, Haruhi, BandaiNamco]
+tags: [PSP, 어드벤처, 비주얼 노벨, Haruhi, BandaiNamco]
 image:
   path: /assets/img/posts/psp/suzumiya_thumb.png
   alt: Suzumiya Haruhi no Yakusoku PSP Boxart

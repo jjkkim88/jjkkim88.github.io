@@ -3,7 +3,7 @@ title: "(PS2) 킹덤하츠 파이널믹스 (Kingdom Hearts Final Mix)"
 description: "PS2 킹덤하츠 파이널믹스 리뷰. 오리지널과 파이널믹스의 차이점, 추가 보스·하틀리스·키블레이드, 프라우드 모드, 영어 음성 변경, 시크릿 무비까지 정리합니다."
 date: 2026-02-12
 categories: [PS2]
-tags: [PS2, action-rpg, KingdomHearts, SquareEnix, Disney]
+tags: [PS2, 액션RPG, KingdomHearts, SquareEnix, Disney]
 image:
   path: /assets/img/posts/ps2/kh1_thumb.png
   alt: Kingdom Hearts Final Mix PS2 Boxart

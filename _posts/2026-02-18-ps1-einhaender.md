@@ -3,7 +3,7 @@ title: "(PS1) 아인헨더 (Einhänder)"
 published: false
 date: 2026-02-18
 categories: [PS1]
-tags: [PS1, shooter, action, Square]
+tags: [PS1, 슈팅, 액션, Square]
 ---
 
 ## 📜 아인헨더

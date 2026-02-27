@@ -3,7 +3,7 @@ title: "(NDS) 프린세스 메이커 4 스페셜 에디션 (Princess Maker 4 Spe
 description: "NDS 프린세스 메이커 4 스페셜 에디션 리뷰 - 전 버전 콘텐츠 통합+DS 전용 추가 요소, PS2·PC·PSP판 비교, 시리즈 역사, 육성 시스템 상세 분석"
 date: 2026-02-15
 categories: [NDS]
-tags: [NDS, simulation, raising-sim, Princess-Maker, Gainax]
+tags: [NDS, 시뮬레이션, 육성, Princess-Maker, Gainax]
 image:
   path: /assets/img/posts/nds/pm4_thumb.png
   alt: Princess Maker 4 Special Edition NDS Boxart

@@ -3,7 +3,7 @@ title: "(3DS) 코드 오브 프린세스 (Code of Princess)"
 description: "3DS 코드 오브 프린세스 리뷰. 가디언 히어로즈 정신적 후속작, 3레인 벨트스크롤 액션, 52명 플레이어블, 버스트·록온 시스템, Switch EX판 비교까지 정리합니다."
 date: 2026-02-14
 categories: [3DS]
-tags: [3DS, action, action-rpg, Atlus, beat-em-up]
+tags: [3DS, 액션, 액션RPG, Atlus, 벨트스크롤]
 image:
   path: /assets/img/posts/3ds/CodePrincess_thumb.jpg
   alt: Code of Princess 3DS Boxart

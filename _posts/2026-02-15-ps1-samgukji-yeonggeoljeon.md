@@ -3,7 +3,7 @@ title: "(PS1) 삼국지 영걸전 (三國志英傑伝)"
 description: "코에이의 삼국지 전술 RPG 시리즈의 원점. PC판 대비 반격 시스템, 3D 일기토, CD 음원 등 PS1판만의 강화 요소를 총정리합니다."
 date: 2026-02-15
 categories: [PS1]
-tags: [PS1, Koei, Tactical RPG, Sangokushi, Turn-based Strategy]
+tags: [PS1, Koei, RPG, Sangokushi, SRPG, 삼국지]
 image:
   path: /assets/img/posts/ps1/sam_thumb.png
   alt: "삼국지 영걸전 PS1"

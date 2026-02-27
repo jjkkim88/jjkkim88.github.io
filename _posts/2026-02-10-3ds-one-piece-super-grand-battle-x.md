@@ -3,7 +3,7 @@ title: "(3DS) 원피스 슈퍼 그랜드 배틀X (One Piece: Super Grand Battle!
 description: "3DS 원피스 슈퍼 그랜드 배틀X 리뷰. 그랜드 배틀 시리즈 부활작, 35+ 플레이어블·86 서포트 캐릭터, 태그 배틀, amiibo 닌텐도 코스튬, 드레스로자까지 수록 정리합니다."
 date: 2026-02-10
 categories: [3DS]
-tags: [3DS, fighting, OnePiece, action, BandaiNamco, Ganbarion]
+tags: [3DS, 격투, OnePiece, 액션, BandaiNamco, Ganbarion]
 image:
   path: /assets/img/posts/3ds/onex_thumb.jpg
   alt: One Piece Super Grand Battle X 3DS Boxart

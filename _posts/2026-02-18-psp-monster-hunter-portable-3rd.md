@@ -3,7 +3,7 @@ title: "(PSP) 몬스터 헌터 포터블 3rd (Monster Hunter Portable 3rd)"
 published: false
 date: 2026-02-18
 categories: [PSP]
-tags: [PSP, action, rpg, hunting, Capcom]
+tags: [PSP, 액션, RPG, 헌팅, Capcom]
 ---
 
 ## 📜 몬스터 헌터 포터블 3rd

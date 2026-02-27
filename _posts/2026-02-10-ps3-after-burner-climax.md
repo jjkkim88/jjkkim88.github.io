@@ -3,7 +3,7 @@ title: "(PS3) 애프터 버너 클라이맥스 (After Burner Climax)"
 description: "PS3 애프터 버너 클라이맥스 리뷰. AM2의 19년 만의 정식 후속작, 클라이맥스 모드, 분기 루트·3개 엔딩, EX 옵션, 아케이드 캐비닛, 디지털 스토어 삭제 사건까지 정리합니다."
 date: 2026-02-10
 categories: [PS3]
-tags: [PS3, shooter, arcade, SEGA, AM2, flight]
+tags: [PS3, 슈팅, 아케이드, SEGA, AM2, 비행]
 image:
   path: /assets/img/posts/ps3/afterburner_thumb.webp
   alt: After Burner Climax PS3

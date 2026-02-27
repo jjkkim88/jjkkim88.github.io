@@ -3,7 +3,7 @@ title: "(PSP) 울트라맨 올스타 크로니클 (Ultraman All-Star Chronicle)"
 description: "PSP 울트라맨 올스타 크로니클 리뷰 - 시리즈 최초 택티컬 SRPG, 쇼와·헤이세이 울트라맨 17명+괴수 50캐릭터, 컬러 타이머·키즈나 시스템, 울트라 시리즈 46년 총정리"
 date: 2026-02-10
 categories: [PSP]
-tags: [PSP, SRPG, tactical, Ultraman, Bandai-Namco, tokusatsu]
+tags: [PSP, SRPG, 전술, Ultraman, Bandai-Namco, 특촬]
 image:
   path: /assets/img/posts/psp/ultraman-all-star-chronicle_thumb.jpg
   alt: Ultraman All-Star Chronicle PSP Boxart

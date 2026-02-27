@@ -3,7 +3,7 @@ title: "(DreamCast) 라이벌 스쿨 2 (Project Justice)"
 published: false
 date: 2026-02-19
 categories: [DreamCast]
-tags: [DreamCast, fighting, capcom, action]
+tags: [DreamCast, 격투, capcom, 액션]
 ---
 
 ## 📜 라이벌 스쿨 2

@@ -3,7 +3,7 @@ title: "(NDS) 파이널 판타지 크리스탈 크로니클 에코즈 오브 타
 description: "NDS 파이널 판타지 크리스탈 크로니클 에코즈 오브 타임 리뷰. 본편 FF와의 차이점, 4종족 특성, 마법 합성표, 장비 제작 팁, NDS-Wii 크로스플레이까지 총정리합니다."
 date: 2026-02-12
 categories: [NDS]
-tags: [NDS, RPG, action RPG, Final Fantasy, Crystal Chronicles]
+tags: [NDS, RPG, 액션RPG, Final Fantasy, Crystal Chronicles]
 image:
   path: /assets/img/posts/nds/ffcc_thumb.jpg
   alt: Final Fantasy Crystal Chronicles Echoes of Time NDS Boxart

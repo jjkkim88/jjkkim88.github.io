@@ -3,7 +3,7 @@ title: "(Wii) 세가 슈퍼스타 테니스 (Sega Superstars Tennis)"
 description: "Wii 세가 슈퍼스타 테니스 리뷰. 16명 세가 올스타 캐릭터 로스터, 슈퍼스타 스테이트, 10개 코트, 미니게임 모드, 공략 팁까지 정리합니다."
 date: 2026-02-11
 categories: [Wii]
-tags: [Wii, sports, tennis, sega, 팁]
+tags: [Wii, 스포츠, 테니스, sega, 팁]
 image:
   path: /assets/img/posts/wii/segasuperstarstennis_thumb.png
   alt: Sega Superstars Tennis Wii Boxart

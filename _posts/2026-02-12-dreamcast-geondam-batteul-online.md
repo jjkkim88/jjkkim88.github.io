@@ -3,7 +3,7 @@ title: "(DreamCast) 건담 배틀 온라인 (Gundam Battle Online)"
 description: "드림캐스트 건담 배틀 온라인 리뷰. 헥스 기반 리얼타임 시뮬레이션, 연방·지온 양 진영 모빌슈트, 온라인 서비스 역사, 오프라인 스탠드얼론 모드까지 정리합니다."
 date: 2026-02-12
 categories: [DreamCast]
-tags: [DreamCast, Gundam, simulation]
+tags: [DreamCast, Gundam, 시뮬레이션]
 image:
   path: /assets/img/posts/dreamcast/Gundambattleonline_thumb.jpg
   alt: Gundam Battle Online Dreamcast Boxart

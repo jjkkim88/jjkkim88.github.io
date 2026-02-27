@@ -3,7 +3,7 @@ title: "(PSP) SD건담 G제너레이션 월드 (SD Gundam G Generation World)"
 description: "PSP SD건담 G제너레이션 월드 리뷰. 제너레이션 브레이크, 유닛 개발 시스템, 마이 캐릭터, 스테이지 구성, 초반 육성 공략 팁, 전작 WARS·후속작 OVER WORLD와의 비교까지 정리합니다."
 date: 2025-07-17
 categories: [PSP]
-tags: [PSP, SD Gundam, SRPG, simulation, 공략, 팁]
+tags: [PSP, SD Gundam, SRPG, 시뮬레이션, 공략, 팁]
 image:
   path: /assets/img/posts/psp/SDGGGWORLD_thumb.jpg
   alt: SD Gundam G Generation World PSP Boxart

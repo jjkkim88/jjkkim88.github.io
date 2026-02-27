@@ -3,7 +3,7 @@ title: "(Wii) 슈퍼 마리오 올스타즈 25주년 에디션 (Super Mario All-
 description: "Wii 슈퍼 마리오 올스타즈 25주년 한정판 리뷰 - SFC 16비트 리메이크 4작품 수록, 사운드트랙 CD·히스토리 북렛 동봉, SFC판·NES 원작 비교"
 date: 2026-02-14
 categories: [Wii]
-tags: [Wii, Nintendo, Mario, platformer, compilation, anniversary]
+tags: [Wii, Nintendo, Mario, 플랫폼, 컴필레이션, anniversary]
 image:
   path: /assets/img/posts/wii/marioallstar_thumb.jpg
   alt: Super Mario All-Stars 25th Anniversary Edition Wii Boxart

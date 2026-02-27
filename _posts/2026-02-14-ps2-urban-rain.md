@@ -3,7 +3,7 @@ title: "(PS2) 어반 레인 (Urban Reign)"
 description: "PS2 어반 레인 리뷰. 남코 철권팀이 만든 3D 격투 액션, 100개 미션, 60명 캐릭터, 폴 피닉스·마샬 로 게스트, 그래플·카운터 시스템, 4인 멀티까지 정리합니다."
 date: 2026-02-14
 categories: [PS2]
-tags: [PS2, action, brawler, fighting, Namco, beat-em-up]
+tags: [PS2, 액션, 격투, Namco, 벨트스크롤]
 image:
   path: /assets/img/posts/ps2/urbanreign_thumb.png
   alt: Urban Reign PS2 Boxart

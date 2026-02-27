@@ -3,7 +3,7 @@ title: "(PS3) 크로스 엣지 (Cross Edge)"
 description: "PS3 크로스 엣지 리뷰. 캡콤·닛폰이치·거스트·아이디어 팩토리 5사 크로스오버 RPG, 참전 캐릭터, 콤보 전투 시스템, 소울 서치, 평가까지 정리합니다."
 date: 2026-02-12
 categories: [PS3]
-tags: [PS3, rpg, jrpg, Capcom, NipponIchi, Gust, IdeaFactory]
+tags: [PS3, RPG, JRPG, Capcom, NipponIchi, Gust, IdeaFactory]
 image:
   path: /assets/img/posts/ps3/crossedge_thumb.png
   alt: Cross Edge PS3 Boxart

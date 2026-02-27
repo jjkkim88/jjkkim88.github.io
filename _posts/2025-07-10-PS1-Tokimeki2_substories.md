@@ -3,7 +3,7 @@ title: "(PS1) 두근두근 메모리얼 2 서브스토리즈 (Tokimeki Memorial 
 description: "PS1 토키메키 메모리얼 2 서브스토리즈 리뷰. 3부작 구성, 히로인별 엔딩 분기 조건, DDR 미니게임 공략 팁, 선택지 가이드까지 정리합니다."
 date: 2025-07-11
 categories: [PS1]
-tags: [PS1, Tokimeki Memorial, simulation, Visual Novel, 공략, 팁]
+tags: [PS1, Tokimeki Memorial, 시뮬레이션, 비주얼 노벨, 공략, 팁]
 image:
   path: /assets/img/posts/ps1/toki2sub_thumb.jpg
   alt: Tokimeki Memorial 2 Substories PS1 Boxart

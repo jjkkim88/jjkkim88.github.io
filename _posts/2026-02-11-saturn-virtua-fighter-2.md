@@ -3,7 +3,7 @@ title: "(Saturn) 버추어 파이터 2 (Virtua Fighter 2)"
 description: "세가 새턴 버추어 파이터 2 리뷰. 캐릭터별 핵심 커맨드표, 초보자 공략, 아케이드에서 새턴까지의 이식 히스토리, 한국 오락실 문화까지 정리합니다."
 date: 2026-02-11
 categories: [Saturn]
-tags: [Saturn, fighting, Sega, Virtua Fighter]
+tags: [Saturn, 격투, Sega, Virtua Fighter]
 image:
   path: /assets/img/posts/saturn/vf2_thumb.jpg
   alt: Virtua Fighter 2 Saturn Boxart

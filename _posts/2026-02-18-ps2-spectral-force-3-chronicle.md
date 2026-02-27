@@ -3,7 +3,7 @@ title: "(PS2) 스펙트럴 포스 3 크로니클"
 published: false
 date: 2026-02-18
 categories: [PS2]
-tags: [PS2, rpg, strategy]
+tags: [PS2, RPG, 전략]
 ---
 
 ## 📜 스펙트럴 포스 3 크로니클

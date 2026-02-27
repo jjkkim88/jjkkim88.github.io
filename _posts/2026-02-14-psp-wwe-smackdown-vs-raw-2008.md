@@ -3,7 +3,7 @@ title: "(PSP) WWE 스맥다운 VS 로우 2008 (WWE SmackDown vs. Raw 2008)"
 description: "PSP WWE 스맥다운 vs 로우 2008 리뷰. PS3/360 원작과 PSP 이식 비교, PSP 전작(SvR 2007) 비교, 8 파이팅 스타일, ECW 합류, 55명 로스터, 시리즈 전체 계보까지 정리합니다."
 date: 2026-02-14
 categories: [PSP]
-tags: [PSP, sports, wrestling, WWE, THQ, Yukes]
+tags: [PSP, 스포츠, 프로레슬링, WWE, THQ, Yukes]
 image:
   path: /assets/img/posts/psp/wwe_2008_thumb.png
   alt: WWE SmackDown vs Raw 2008 PSP Boxart

@@ -3,7 +3,7 @@ title: "(Saturn) 도키메키 메모리얼 드라마 시리즈 (Tokimeki Memoria
 description: "세가 새턴 도키메키 메모리얼 드라마 시리즈 Vol.1~3 총정리. 코지마 히데오 팀 개발, 폴리스노츠 엔진, 각 편 히로인·스토리·미니게임, 시리즈 비교까지 정리합니다."
 date: 2026-02-12
 categories: [Saturn]
-tags: [Saturn, adventure, Konami, TokimekiMemorial]
+tags: [Saturn, 어드벤처, Konami, TokimekiMemorial]
 image:
   path: /assets/img/posts/saturn/tokedrama_thumb.png
   alt: Tokimeki Memorial Drama Series Saturn Boxart

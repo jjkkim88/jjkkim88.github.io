@@ -3,7 +3,7 @@ title: "(PS_VITA) 초차원액션 넵튠U (Hyperdimension Neptunia U: Action Unl
 description: "PS Vita 초차원액션 넵튠U 리뷰. 넵튠 시리즈 첫 액션 스핀오프, 탐소프트(센란카구라) 공동개발, 10명 플레이어블, HDD 변신·코스튬 브레이크, 게임 업계 의인화 설정 정리합니다."
 date: 2026-02-14
 categories: [PS_VITA]
-tags: [PS_VITA, action, hack-and-slash, CompileHeart, IdeaFactory, Tamsoft, Neptunia]
+tags: [PS_VITA, 액션, 핵앤슬래시, CompileHeart, IdeaFactory, Tamsoft, Neptunia]
 image:
   path: /assets/img/posts/psvita/HyperdimensionNeptunia_thumb.png
   alt: Hyperdimension Neptunia U Action Unleashed PS Vita Boxart

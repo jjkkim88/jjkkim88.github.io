@@ -3,7 +3,7 @@ title: "(PS1) 더블 드래곤 (Double Dragon)"
 description: "PS1 더블 드래곤 리뷰. 네오지오 대전 격투 게임의 PS1 이식판, 1994년 영화 기반, 12명 캐릭터, 차지 미터·드래곤 변신, 테크노스 재팬 마지막 작품, 레이지 오브 더 드래곤즈까지 정리합니다."
 date: 2026-02-14
 categories: [PS1]
-tags: [PS1, fighting, DoubleD, NeoGeo, TechnosJapan]
+tags: [PS1, 격투, DoubleD, NeoGeo, TechnosJapan]
 image:
   path: /assets/img/posts/ps1/dd_thumb.webp
   alt: Double Dragon PS1 Boxart

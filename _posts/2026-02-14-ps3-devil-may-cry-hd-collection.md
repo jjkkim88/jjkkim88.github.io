@@ -3,7 +3,7 @@ title: "(PS3) 데빌 메이 크라이 HD 컬렉션 (Devil May Cry HD Collection)
 description: "PS3 데빌 메이 크라이 HD 컬렉션 리뷰. DMC 1·2·3SE 수록, PS2 원작과의 상세 비교, 누락된 이펙트·오디오 버그, 동시대 HD 컬렉션 비교, 시리즈 시간순 가이드까지 정리합니다."
 date: 2026-02-14
 categories: [PS3]
-tags: [PS3, action, stylish-action, Capcom, HD-remaster, DMC]
+tags: [PS3, 액션, 스타일리시 액션, Capcom, HD 리마스터, DMC]
 image:
   path: /assets/img/posts/ps3/devilmaycry_thumb.jpg
   alt: Devil May Cry HD Collection PS3 Boxart

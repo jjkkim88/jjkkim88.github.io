@@ -3,7 +3,7 @@ title: "(PS3) 메탈 기어 솔리드 4 건즈 오브 패트리어트 (Metal Gea
 description: "PS3 메탈 기어 솔리드 4 리뷰. 옥토카모·CQC 등 핵심 시스템, 5개 Act 구성, B&B 부대 보스전, 컷신 기네스 기록, PS3 독점 18년의 이유까지 총정리합니다."
 date: 2026-02-11
 categories: [PS3]
-tags: [PS3, Metal Gear Solid, MGS4, Kojima, action, 공략, 팁]
+tags: [PS3, Metal Gear Solid, MGS4, Kojima, 액션, 공략, 팁]
 image:
   path: /assets/img/posts/ps3/mgs4_thumb.jpg
   alt: Metal Gear Solid 4 Guns of the Patriots PS3 Boxart

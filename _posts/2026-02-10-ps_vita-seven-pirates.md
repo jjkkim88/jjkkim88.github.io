@@ -3,7 +3,7 @@ title: "(PS_VITA) 한계돌기 세븐 파이러츠 (限界凸旗 セブンパイ
 description: "PS Vita 한계돌기 세븐 파이러츠 리뷰. 파이이쿠 시스템, 무라무라/빈빈 전투 메카닉, 한계돌기 시리즈 계보, 캐릭터·성우, Switch 이식 정보까지 정리합니다."
 date: 2026-02-10
 categories: [PS_VITA]
-tags: [PS_VITA, rpg, CompileHeart, IdeaFactory, fanservice]
+tags: [PS_VITA, RPG, CompileHeart, IdeaFactory, 팬서비스]
 image:
   path: /assets/img/posts/psvita/seven_thumb.jpg
   alt: Genkai Tokki Seven Pirates PS Vita Boxart

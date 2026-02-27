@@ -3,7 +3,7 @@ title: "(Saturn) 우노 DX (Uno)"
 published: false
 date: 2026-02-18
 categories: [Saturn]
-tags: [Saturn, card, party, multiplayer]
+tags: [Saturn, 카드, 파티, 멀티플레이]
 ---
 
 ## 📜 우노 DX

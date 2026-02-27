@@ -3,7 +3,7 @@ title: "(DreamCast) 쉔무 (Shenmue)"
 description: "드림캐스트 쉔무 리뷰. 4700만 달러 개발비의 오픈 월드 선구자, FREE 시스템, QTE의 원조, 버추어 파이터 기반 격투, 요코스카 재현, HD 리마스터까지 정리합니다."
 date: 2026-02-14
 categories: [DreamCast]
-tags: [DreamCast, action-adventure, open-world, SEGA, AM2]
+tags: [DreamCast, 액션 어드벤처, 오픈월드, SEGA, AM2]
 image:
   path: /assets/img/posts/dreamcast/shenmue_thumb.webp
   alt: Shenmue Dreamcast Boxart

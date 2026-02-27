@@ -3,7 +3,7 @@ title: "(DreamCast) 블랙 매트릭스 AD (BLACK/MATRIX AD)"
 description: "드림캐스트 블랙 매트릭스 AD 리뷰 - 선악이 뒤바뀐 세계관의 택티컬 RPG, 블러드 포인트 시스템, 새턴·PS1판 비교, 시리즈 계보, Flight-Plan 개발사 소개"
 date: 2026-02-15
 categories: [DreamCast]
-tags: [DreamCast, SRPG, tactical, RPG, FlightPlan]
+tags: [DreamCast, SRPG, 전술, RPG, FlightPlan]
 image:
   path: /assets/img/posts/dreamcast/blackad_thumb.png
   alt: BLACK/MATRIX AD Dreamcast Boxart

@@ -3,7 +3,7 @@ title: "(NDS) 나노스트레이 (Nanostray)"
 description: "닌텐도 DS 나노스트레이 리뷰 - 독일 데모씬 출신 Shin'en Multimedia의 기술력으로 만든 풀 3D 세로 슈팅, 무기 시스템, Iridion 시리즈 계보, 후속작 비교"
 date: 2026-02-10
 categories: [NDS]
-tags: [NDS, shooter, shmup, vertical, Shinen]
+tags: [NDS, 슈팅, 종스크롤, Shinen]
 image:
   path: /assets/img/posts/nds/nanostray_thumb.png
   alt: Nanostray NDS Boxart

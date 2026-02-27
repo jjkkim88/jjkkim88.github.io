@@ -3,7 +3,7 @@ title: "(PS_VITA) 기동전사 건담 익스트림 버셔스 포스 (Mobile Suit
 description: "PS Vita 건담 익스트림 버셔스 포스 리뷰. EXVS 시리즈와의 비교, 코스트 시스템, 기체 로스터, 포스 모드, 부스트 관리 팁까지 솔직하게 정리합니다."
 date: 2026-02-12
 categories: [PS_VITA]
-tags: [PS_VITA, action, Gundam]
+tags: [PS_VITA, 액션, Gundam]
 image:
   path: /assets/img/posts/psvita/gundamefv_thumb.webp
   alt: Gundam Extreme VS Force PS Vita Boxart

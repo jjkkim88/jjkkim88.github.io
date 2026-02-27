@@ -3,7 +3,7 @@ title: "(Wii) K-POP 댄스 페스티벌 (K-POP Dance Festival)"
 description: "Wii K-POP 댄스 페스티벌 리뷰. 저스트 댄스 방식의 한국 독점 댄스 게임, 수록곡 26곡 전체 목록, 3단계 모드, 저스트 댄스와의 차이점까지 정리합니다."
 date: 2026-02-12
 categories: [Wii]
-tags: [Wii, dance, rhythm, party, Kpop]
+tags: [Wii, 댄스, 리듬, 파티, Kpop]
 image:
   path: /assets/img/posts/wii/kpop_thumb.png
   alt: K-POP Dance Festival Wii Boxart

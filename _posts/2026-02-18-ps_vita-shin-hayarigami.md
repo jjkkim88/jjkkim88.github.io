@@ -3,7 +3,7 @@ title: "(PS_VITA) 신 하야리가미"
 published: false
 date: 2026-02-18
 categories: [PS_VITA]
-tags: [PS_VITA, horror, adventure, mystery]
+tags: [PS_VITA, 호러, 어드벤처, 미스터리]
 ---
 
 ## 📜 신 하야리가미

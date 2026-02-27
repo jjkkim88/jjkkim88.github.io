@@ -3,7 +3,7 @@ title: "(PS Vita) 라쳇 앤 클랭크 트릴로지 (Ratchet & Clank Trilogy)"
 description: "PS Vita 라쳇 앤 클랭크 트릴로지 리뷰 - PS2 3부작 HD 리마스터, 수록 3작품 상세, 무기 시스템, PS2·PS3·Vita 비교, 시리즈 계보 총정리"
 date: 2026-02-15
 categories: [PS_VITA]
-tags: [PS_VITA, action, platformer, Ratchet-and-Clank, Insomniac, Sony, HD-collection]
+tags: [PS_VITA, 액션, Ratchet-and-Clank, Insomniac]
 image:
   path: /assets/img/posts/psvita/rchd_thumb.png
   alt: Ratchet and Clank Trilogy PS Vita Boxart

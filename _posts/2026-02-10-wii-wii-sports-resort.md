@@ -3,7 +3,7 @@ title: "(Wii) 위 스포츠 리조트 (Wii Sports Resort)"
 description: "Wii MotionPlus의 1:1 모션 컨트롤을 12개 스포츠로 체험하는 닌텐도의 캐주얼 스포츠 게임. 3,300만장 판매의 Wii 대표작을 소개합니다."
 date: 2026-02-10
 categories: [Wii]
-tags: [Wii, Sports, Party, Nintendo, Wii MotionPlus]
+tags: [Wii, 스포츠, 파티, Nintendo, Wii MotionPlus]
 image:
   path: /assets/img/posts/wii/wii_sport_resort_thumb.webp
   alt: "위 스포츠 리조트 Wii"

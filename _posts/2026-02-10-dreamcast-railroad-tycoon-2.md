@@ -3,7 +3,7 @@ title: "(DreamCast) 레일로드 타이쿤 2 골드 에디션 (Railroad Tycoon I
 description: "드림캐스트용 레일로드 타이쿤 2 골드 에디션 리뷰 - 풀 3D 그래픽으로 리메이크된 콘솔 이식작, PC판·PS1판 비교, 시리즈 역사, 게임 시스템 상세 분석"
 date: 2026-02-10
 categories: [DreamCast]
-tags: [DreamCast, simulation, strategy, tycoon, railroad, train]
+tags: [DreamCast, 시뮬레이션, 전략, tycoon, railroad, train]
 image:
   path: /assets/img/posts/dreamcast/RailroadTycoon2_thumb.png
   alt: Railroad Tycoon 2 Gold Edition Dreamcast Boxart
