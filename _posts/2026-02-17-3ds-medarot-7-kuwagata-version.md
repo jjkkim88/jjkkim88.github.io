@@ -327,5 +327,4 @@ image:
 
 - [메다롯트 7 공식 사이트](https://www.medarotsha.jp/meda7/)
 - [Medarot 7 — Medapedia](https://medarot.meowcorp.us/wiki/Medarot_7)
-- [메다롯트 7 공략 — game-cmr.com](http://meda7.game-cmr.com/)
 - [메다롯트 시리즈 역사 — 공식 포탈](https://www.medarotsha.jp/history/)
