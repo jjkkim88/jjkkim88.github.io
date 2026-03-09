@@ -11,25 +11,18 @@ image:
 
 ## 📜 레고 해리포터 5-7 (Lego Harry Potter: Years 5–7)
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+  <img src="/assets/img/posts/psp/legoharry57_front.jpg" alt="레고 해리포터 5-7 PSP 표지">
+  <img src="/assets/img/posts/psp/legoharry57_title.jpg" alt="레고 해리포터 5-7 PSP 타이틀">
+  <img src="/assets/img/posts/psp/legoharry57_sc1.jpg" alt="레고 해리포터 5-7 PSP 스크린샷1">
+  <img src="/assets/img/posts/psp/legoharry57_sc2.jpg" alt="레고 해리포터 5-7 PSP 스크린샷2">
+</div>
+
 **레고 해리포터 5-7**은 TT 퓨전이 개발하고 워너 브라더스 인터랙티브가 퍼블리싱한 PSP용 레고 액션 어드벤처 게임입니다. 2011년 11월에 발매되었으며, 해리 포터 시리즈의 **5편 불사조 기사단부터 7편 죽음의 성물**까지를 레고 특유의 코믹한 연출로 재구성한 작품입니다.
 
 전작 **레고 해리포터 1-4**(2010)의 후속작으로, **24개 스토리 레벨**, **200마리 이상의 플레이어블 캐릭터**, 그리고 결투 클럽 등 신규 요소를 추가했습니다. PSP 메타크리틱 **71점**을 기록했으며, **PSP에서 발매된 마지막 레고 게임**이라는 역사적 의미도 지닌 작품입니다.
 
 특히 이 게임은 **레고 게임 시리즈에서 캐릭터가 옹알이(지브리시)로 말하는 마지막 작품**입니다. 이후 레고 배트맨 2(2012)부터 풀 보이스 연기가 도입되었습니다.
-
----
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
-
-![레고 해리포터 5-7 표지](/assets/img/posts/psp/legoharry57_front.jpg)
-
-![레고 해리포터 5-7 타이틀 화면](/assets/img/posts/psp/legoharry57_title.jpg)
-
-![레고 해리포터 5-7 플레이 화면 1](/assets/img/posts/psp/legoharry57_sc1.jpg)
-
-![레고 해리포터 5-7 플레이 화면 2](/assets/img/posts/psp/legoharry57_sc2.jpg)
-
-</div>
 
 ---
 

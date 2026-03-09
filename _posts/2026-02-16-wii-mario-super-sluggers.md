@@ -1,6 +1,7 @@
 ---
 title: "(Wii) 마리오 슈퍼 슬러거 (Mario Super Sluggers)"
 description: "마리오 캐릭터 총출동! Wii 리모컨을 휘둘러 야구를 즐기는 파티 스포츠 게임. 41명 이상의 플레이어블 캐릭터, 케미스트리 시스템, 9개 스타디움의 매력을 소개합니다."
+published: true
 date: 2026-02-16
 categories: [Wii]
 tags: [Wii, 스포츠, 야구, 마리오, 파티, Nintendo]
@@ -11,23 +12,16 @@ image:
 
 ## 📜 마리오 슈퍼 슬러거 (Mario Super Sluggers)
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+  <img src="/assets/img/posts/wii/marioslugger_front.jpg" alt="마리오 슈퍼 슬러거 Wii 표지">
+  <img src="/assets/img/posts/wii/marioslugger_title.jpg" alt="마리오 슈퍼 슬러거 Wii 타이틀">
+  <img src="/assets/img/posts/wii/marioslugger_sc1.png" alt="마리오 슈퍼 슬러거 Wii 스크린샷1">
+  <img src="/assets/img/posts/wii/marioslugger_sc2.jpg" alt="마리오 슈퍼 슬러거 Wii 스크린샷2">
+</div>
+
 **마리오 슈퍼 슬러거**는 남코 반다이 게임즈(Namco Bandai Games)와 나우 프로덕션(NOW Production)이 공동 개발하고 닌텐도가 퍼블리싱한 **Wii용 야구 스포츠 게임**입니다. 게임큐브용 전작 **마리오 슈퍼스타 베이스볼(Mario Superstar Baseball, 2005)**의 정식 후속작으로, Wii 리모컨의 모션 컨트롤을 활용해 실제로 배트를 휘두르고 공을 던지는 듯한 직관적인 조작감이 핵심입니다.
 
 마리오 시리즈 역대 최다인 **41명 이상의 플레이어블 캐릭터**가 등장하며, 캐릭터 간의 "케미스트리(Chemistry)" 시스템, 개성 넘치는 9개 스타디움, 그리고 Wii 특유의 파티 게임 감성이 어우러진 작품입니다.
-
----
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
-
-![마리오 슈퍼 슬러거 패키지 앞면](/assets/img/posts/wii/marioslugger_front.jpg)
-
-![마리오 슈퍼 슬러거 타이틀 화면](/assets/img/posts/wii/marioslugger_title.jpg)
-
-![마리오 슈퍼 슬러거 플레이 화면 1](/assets/img/posts/wii/marioslugger_sc1.png)
-
-![마리오 슈퍼 슬러거 플레이 화면 2](/assets/img/posts/wii/marioslugger_sc2.jpg)
-
-</div>
 
 ---
 

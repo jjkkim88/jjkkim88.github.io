@@ -11,25 +11,18 @@ image:
 
 ## 📜 세가 에이지스 메모리얼 셀렉션 Vol.1
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+  <img src="/assets/img/posts/saturn/segaage1_front.jpg" alt="세가 에이지스 메모리얼 셀렉션 Saturn 표지">
+  <img src="/assets/img/posts/saturn/segaage1_title.jpg" alt="세가 에이지스 메모리얼 셀렉션 Saturn 타이틀">
+  <img src="/assets/img/posts/saturn/segaage1_sc1.png" alt="세가 에이지스 메모리얼 셀렉션 Saturn 스크린샷1">
+  <img src="/assets/img/posts/saturn/segaage1_sc2.png" alt="세가 에이지스 메모리얼 셀렉션 Saturn 스크린샷2">
+</div>
+
 **세가 에이지스 메모리얼 셀렉션 Vol.1**은 세가가 1997년 2월 28일 세가 새턴용으로 발매한 **클래식 아케이드 게임 컴필레이션**입니다. 가격은 4,800엔이며, **일본 전용**으로 출시되었습니다.
 
 1979년부터 1984년까지의 세가 아케이드 초기 명작 **4편**을 수록한 이 작품은, 세가의 게임 역사를 "박물관처럼" 둘러보는 컬렉션입니다. **헤드 온(1979)**, **펭고(1982)**, **업앤다운(1983)**, **플리키(1984)** — 이 네 작품은 세가가 아케이드 왕국으로 성장하던 초창기의 핵심 타이틀들입니다.
 
 "세가 에이지스(Sega Ages)"라는 브랜드명은 **"Sega"를 거꾸로 쓴 "Ages"**라는 회문(palindrome)으로, 세가의 과거 유산을 기념하는 클래식 복각 시리즈의 상징입니다.
-
----
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
-
-![세가 에이지스 메모리얼 셀렉션 표지](/assets/img/posts/saturn/segaage1_front.jpg)
-
-![세가 에이지스 메모리얼 셀렉션 타이틀 화면](/assets/img/posts/saturn/segaage1_title.jpg)
-
-![세가 에이지스 메모리얼 셀렉션 플레이 화면 1](/assets/img/posts/saturn/segaage1_sc1.png)
-
-![세가 에이지스 메모리얼 셀렉션 플레이 화면 2](/assets/img/posts/saturn/segaage1_sc2.png)
-
-</div>
 
 ---
 

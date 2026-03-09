@@ -11,23 +11,16 @@ image:
 
 ## 📜 발할라 나이츠 엘다르 사가 (Valhalla Knights: Eldar Saga)
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+  <img src="/assets/img/posts/wii/ValhallaKnights_front.jpg" alt="발할라 나이츠 엘다르 사가 Wii 표지">
+  <img src="/assets/img/posts/wii/ValhallaKnights_title.jpg" alt="발할라 나이츠 엘다르 사가 Wii 타이틀">
+  <img src="/assets/img/posts/wii/ValhallaKnights_sc1.jpg" alt="발할라 나이츠 엘다르 사가 Wii 스크린샷1">
+  <img src="/assets/img/posts/wii/ValhallaKnights_sc2.jpg" alt="발할라 나이츠 엘다르 사가 Wii 스크린샷2">
+</div>
+
 **발할라 나이츠: 엘다르 사가**는 K2가 개발하고 마벨러스 엔터테인먼트(일본) / XSEED Games(북미) / 라이징 스타 게임즈(유럽)가 퍼블리싱한 Wii용 액션 RPG입니다. 2009년 9월(북미) / 10월(일본)에 발매되었으며, PSP에서 시작된 발할라 나이츠 시리즈의 **세 번째 작품이자 최초의 거치형 콘솔 진출작**입니다.
 
 **2부작 에피소드 구조**와 **결혼·세대 교체 시스템**이라는 독특한 시도를 했으나, 메타크리틱 **35점**이라는 혹평을 받았습니다. 음악은 테일즈·스타오션 시리즈로 유명한 **사쿠라바 모토이**가 담당하여, 사운드만큼은 높은 평가를 받은 작품입니다.
-
----
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
-
-![발할라 나이츠 엘다르 사가 표지](/assets/img/posts/wii/ValhallaKnights_front.jpg)
-
-![발할라 나이츠 엘다르 사가 타이틀 화면](/assets/img/posts/wii/ValhallaKnights_title.jpg)
-
-![발할라 나이츠 엘다르 사가 플레이 화면 1](/assets/img/posts/wii/ValhallaKnights_sc1.jpg)
-
-![발할라 나이츠 엘다르 사가 플레이 화면 2](/assets/img/posts/wii/ValhallaKnights_sc2.jpg)
-
-</div>
 
 ---
 

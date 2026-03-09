@@ -11,23 +11,16 @@ image:
 
 ## 📜 그란투리스모2 플러스 (Gran Turismo 2 Plus)
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+  <img src="/assets/img/posts/ps1/gt2p_front.jpg" alt="그란투리스모2 플러스 PS1 표지">
+  <img src="/assets/img/posts/ps1/gt2p_title.jpg" alt="그란투리스모2 플러스 PS1 타이틀">
+  <img src="/assets/img/posts/ps1/gt2p_sc1.png" alt="그란투리스모2 플러스 PS1 스크린샷1">
+  <img src="/assets/img/posts/ps1/gt2p_sc2.png" alt="그란투리스모2 플러스 PS1 스크린샷2">
+</div>
+
 **그란투리스모 2(Gran Turismo 2)**는 폴리포니 디지털이 개발하고 소니 컴퓨터 엔터테인먼트가 퍼블리싱한 PS1용 레이싱 시뮬레이터입니다. 1999년 12월에 발매되어 전 세계 **937만 장**을 판매했으며, 메타크리틱 **93점**이라는 놀라운 평가를 받은 PS1 레이싱의 금자탑입니다.
 
 전작 그란투리스모 1의 차량 140대, 트랙 11개에서 **차량 약 650대, 트랙 27개**로 비약적인 확장을 이루었고, PS1 하드웨어의 한계를 **2장의 CD(아케이드 디스크 + 시뮬레이션 디스크)**로 극복한 작품입니다. **"The Real Driving Simulator"**라는 부제를 확고히 각인시킨 시리즈의 대표작입니다.
-
----
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
-
-![그란투리스모2 플러스 표지](/assets/img/posts/ps1/gt2p_front.jpg)
-
-![그란투리스모2 플러스 타이틀 화면](/assets/img/posts/ps1/gt2p_title.jpg)
-
-![그란투리스모2 플러스 플레이 화면 1](/assets/img/posts/ps1/gt2p_sc1.png)
-
-![그란투리스모2 플러스 플레이 화면 2](/assets/img/posts/ps1/gt2p_sc2.png)
-
-</div>
 
 ---
 

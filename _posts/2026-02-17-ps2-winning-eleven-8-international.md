@@ -11,23 +11,16 @@ image:
 
 ## 📜 위닝 일레븐 8 인터내셔널 (Pro Evolution Soccer 4)
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+  <img src="/assets/img/posts/ps2/winning8_front.png" alt="위닝 일레븐 8 인터내셔널 PS2 표지">
+  <img src="/assets/img/posts/ps2/winning8_title.png" alt="위닝 일레븐 8 인터내셔널 PS2 타이틀">
+  <img src="/assets/img/posts/ps2/winning8_sc1.png" alt="위닝 일레븐 8 인터내셔널 PS2 스크린샷1">
+  <img src="/assets/img/posts/ps2/winning8_sc2.jpg" alt="위닝 일레븐 8 인터내셔널 PS2 스크린샷2">
+</div>
+
 **위닝 일레븐 8 인터내셔널**은 코나미 컴퓨터 엔터테인먼트 도쿄(KCET)가 개발한 PS2용 축구 게임으로, 2004년 8월(일본) / 2005년 2월(북미)에 발매되었습니다. 유럽에서는 **Pro Evolution Soccer 4(PES 4)**라는 이름으로 출시되었습니다.
 
 메타크리틱 **91점**(Universal Acclaim)이라는 압도적 평가를 받았으며, 일본에서는 발매 첫날 **100만 장**을 판매했습니다. 시리즈 최초로 **6개국 정규 리그**를 수록하고, 마스터 리그를 대폭 확장하여 PES/위닝 일레븐 **황금기(PS2 시대)**의 핵심 작품으로 평가받습니다. FourFourTwo 매거진은 이 게임을 **"역대 최고의 축구 게임"**이라 칭하기도 했습니다.
-
----
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
-
-![위닝 일레븐 8 인터내셔널 표지](/assets/img/posts/ps2/winning8_front.png)
-
-![위닝 일레븐 8 인터내셔널 타이틀 화면](/assets/img/posts/ps2/winning8_title.png)
-
-![위닝 일레븐 8 인터내셔널 플레이 화면 1](/assets/img/posts/ps2/winning8_sc1.png)
-
-![위닝 일레븐 8 인터내셔널 플레이 화면 2](/assets/img/posts/ps2/winning8_sc2.jpg)
-
-</div>
 
 ---
 

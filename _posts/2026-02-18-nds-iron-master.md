@@ -11,25 +11,18 @@ image:
 
 ## 📜 아이언 마스터 (Iron Master: The Legendary Blacksmith)
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+  <img src="/assets/img/posts/nds/ironmaster_front.webp" alt="아이언 마스터 NDS 표지">
+  <img src="/assets/img/posts/nds/ironmaster_title.jpg" alt="아이언 마스터 NDS 타이틀">
+  <img src="/assets/img/posts/nds/ironmaster_sc1.jpg" alt="아이언 마스터 NDS 스크린샷1">
+  <img src="/assets/img/posts/nds/ironmaster_sc2.jpg" alt="아이언 마스터 NDS 스크린샷2">
+</div>
+
 **아이언 마스터 ~왕국의 유산과 세 개의 열쇠~**는 한국의 **바른손크리에이티브**가 개발하고, 일본의 젠타프라이즈(Genterprise)가 퍼블리싱한 NDS용 대장장이 경영 시뮬레이션 RPG입니다. 2009년 10월 8일 일본·한국에서 동시 발매되었습니다.
 
 일본 패미통 **26/40점**을 받았으며, **한국 문화체육관광부 이달의 우수게임(콘솔 부문)**으로 선정된 국산 NDS 타이틀입니다. 북미 발매가 예정되어 트레일러까지 공개되었으나 결국 취소되어 **일본·한국 한정 발매**에 그쳤습니다.
 
 쿠킹 마마처럼 **터치스크린 미니게임으로 무기를 제작**하고, 완성된 아이템을 상점에서 판매하는 독특한 대장장이 체험이 핵심입니다. 일본 레트로 게이머들 사이에서는 "최고의 재미와 최악의 고통이 공존하는" 독특한 작품으로 기억되는 숨겨진 명작(쿠소게)입니다.
-
----
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
-
-![아이언 마스터 표지](/assets/img/posts/nds/ironmaster_front.webp)
-
-![아이언 마스터 타이틀 화면](/assets/img/posts/nds/ironmaster_title.jpg)
-
-![아이언 마스터 플레이 화면 1](/assets/img/posts/nds/ironmaster_sc1.jpg)
-
-![아이언 마스터 플레이 화면 2](/assets/img/posts/nds/ironmaster_sc2.jpg)
-
-</div>
 
 ---
 

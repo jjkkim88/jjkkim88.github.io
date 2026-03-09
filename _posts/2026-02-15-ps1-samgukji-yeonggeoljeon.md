@@ -1,6 +1,7 @@
 ---
 title: "(PS1) 삼국지 영걸전 (三國志英傑伝)"
 description: "코에이의 삼국지 전술 RPG 시리즈의 원점. PC판 대비 반격 시스템, 3D 일기토, CD 음원 등 PS1판만의 강화 요소를 총정리합니다."
+published: true
 date: 2026-02-15
 categories: [PS1]
 tags: [PS1, Koei, RPG, Sangokushi, SRPG, 삼국지]
@@ -11,23 +12,16 @@ image:
 
 ## 📜 삼국지 영걸전 (三國志英傑伝)
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+  <img src="/assets/img/posts/ps1/sam_front.jpg" alt="삼국지 영걸전 PS1 표지">
+  <img src="/assets/img/posts/ps1/sam_title.png" alt="삼국지 영걸전 PS1 타이틀">
+  <img src="/assets/img/posts/ps1/sam_sc1.jpg" alt="삼국지 영걸전 PS1 스크린샷1">
+  <img src="/assets/img/posts/ps1/sam_sc2.jpg" alt="삼국지 영걸전 PS1 스크린샷2">
+</div>
+
 **삼국지 영걸전**은 코에이(Koei)가 1995년 PC-9801용으로 처음 발매한 전술 RPG로, 삼국지연의의 스토리를 유비 시점으로 따라가며 전투를 벌이는 시뮬레이션 RPG입니다. PS1판은 1996년에 발매된 콘솔 이식판으로, 단순 이식이 아닌 **게임 시스템 전반의 대폭 개편**이 이루어진 사실상의 리메이크에 가깝습니다.
 
 일본보다 **한국에서 더 큰 인기**를 얻은 독특한 작품으로, PC통신 시대부터 공략과 팬 커뮤니티가 활발하게 형성된 한국 레트로 게이머들의 추억의 명작입니다.
-
----
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
-
-![삼국지 영걸전 PS1 패키지 앞면](/assets/img/posts/ps1/sam_front.jpg)
-
-![삼국지 영걸전 PS1 타이틀 화면](/assets/img/posts/ps1/sam_title.png)
-
-![삼국지 영걸전 PS1 플레이 화면 1](/assets/img/posts/ps1/sam_sc1.jpg)
-
-![삼국지 영걸전 PS1 플레이 화면 2](/assets/img/posts/ps1/sam_sc2.jpg)
-
-</div>
 
 ---
 

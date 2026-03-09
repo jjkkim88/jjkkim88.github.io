@@ -11,25 +11,18 @@ image:
 
 ## 📜 디지몬 올스타 럼블 (Digimon All-Star Rumble)
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+  <img src="/assets/img/posts/ps3/digimonallstarrumble_front.jpg" alt="디지몬 올스타 럼블 PS3 표지">
+  <img src="/assets/img/posts/ps3/digimonallstarrumble_title.jpg" alt="디지몬 올스타 럼블 PS3 타이틀">
+  <img src="/assets/img/posts/ps3/digimonallstarrumble_sc1.webp" alt="디지몬 올스타 럼블 PS3 스크린샷1">
+  <img src="/assets/img/posts/ps3/digimonallstarrumble_sc2.webp" alt="디지몬 올스타 럼블 PS3 스크린샷2">
+</div>
+
 **디지몬 올스타 럼블**은 프로페(Prope)가 개발하고 반다이 남코 게임즈가 퍼블리싱한 PS3/Xbox 360용 3D 아레나 대전 액션 게임입니다. 2014년 11월에 북미와 유럽에서 발매되었으며, **일본에서는 미발매**라는 이례적인 작품입니다.
 
 서양 팬들의 디지몬 게임 로컬라이즈 청원 운동 **"Operation Decode"**에 대한 반다이 남코의 응답으로 기획된 작품으로, 서양 시장의 디지몬 게임 수요를 테스트하기 위한 목적이었습니다. **12마리의 플레이어블 디지몬**과 진화 시스템을 갖춘 **파워 스톤 스타일**의 아레나 브롤러이지만, 메타크리틱 **49점**이라는 혹평을 받았습니다.
 
 개발사 프로페는 소닉 더 헤지호그의 공동 크리에이터 **유지 나카(中 裕司)**가 설립한 스튜디오로, 한때의 명성과 대비되는 결과물이었습니다.
-
----
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
-
-![디지몬 올스타 럼블 표지](/assets/img/posts/ps3/digimonallstarrumble_front.jpg)
-
-![디지몬 올스타 럼블 타이틀 화면](/assets/img/posts/ps3/digimonallstarrumble_title.jpg)
-
-![디지몬 올스타 럼블 플레이 화면 1](/assets/img/posts/ps3/digimonallstarrumble_sc1.webp)
-
-![디지몬 올스타 럼블 플레이 화면 2](/assets/img/posts/ps3/digimonallstarrumble_sc2.webp)
-
-</div>
 
 ---
 
