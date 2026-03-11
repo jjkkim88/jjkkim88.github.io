@@ -11,23 +11,16 @@ image:
 
 ## 📜 신 하야리가미 (新 流行り神)
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+  <img src="/assets/img/posts/psvita/shinhira_front.jpg" alt="신 하야리가미 PS Vita 표지">
+  <img src="/assets/img/posts/psvita/shinhira_title.jpg" alt="신 하야리가미 PS Vita 타이틀">
+  <img src="/assets/img/posts/psvita/shinhira_sc_1.jpg" alt="신 하야리가미 PS Vita 스크린샷1">
+  <img src="/assets/img/posts/psvita/shinhira_sc2.jpg" alt="신 하야리가미 PS Vita 스크린샷2">
+</div>
+
 **신 하야리가미**는 일본의 니혼이치 소프트웨어(NIS)가 개발·퍼블리싱한 PS Vita / PS3용 호러 비주얼 노벨입니다. 2014년 8월 7일 일본, 2015년 4월 30일 한국에서 발매되었습니다. 한국 퍼블리셔는 인트라게임즈.
 
 도시전설을 소재로 한 미스터리 수사물로, **CERO Z(성인 지정)**라는 일본 최고 등급을 받은 작품입니다. 기존 하야리가미 PS2 시리즈와는 새로운 캐릭터와 구조로 재출발한 리부트 성격의 작품이며, 일본에서는 시리즈 팬들에게 혹평을 받았지만 **한국에서는 오히려 베스트셀러**가 된 독특한 이력을 가진 게임입니다.
-
----
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
-
-![신 하야리가미 표지](/assets/img/posts/psvita/shinhira_front.jpg)
-
-![신 하야리가미 타이틀 화면](/assets/img/posts/psvita/shinhira_title.jpg)
-
-![신 하야리가미 플레이 화면 1](/assets/img/posts/psvita/shinhira_sc_1.jpg)
-
-![신 하야리가미 플레이 화면 2](/assets/img/posts/psvita/shinhira_sc2.jpg)
-
-</div>
 
 ---
 

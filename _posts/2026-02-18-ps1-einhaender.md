@@ -11,25 +11,18 @@ image:
 
 ## 📜 아인헨더 (Einhänder)
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+  <img src="/assets/img/posts/ps1/Einhänder_front.jpg" alt="아인헨더 PS1 표지">
+  <img src="/assets/img/posts/ps1/Einhänder_title.jpg" alt="아인헨더 PS1 타이틀">
+  <img src="/assets/img/posts/ps1/Einhänder_sc1.jpg" alt="아인헨더 PS1 스크린샷1">
+  <img src="/assets/img/posts/ps1/Einhänder_sc2.jpg" alt="아인헨더 PS1 스크린샷2">
+</div>
+
 **아인헨더(Einhänder)**는 스퀘어(현 스퀘어 에닉스)가 개발하고, 일본은 스퀘어, 북미는 소니 컴퓨터 엔터테인먼트가 퍼블리싱한 PS1용 횡스크롤 슈팅 게임입니다. 1997년 11월 20일 일본, 1998년 5월 5일 북미에서 발매되었습니다.
 
 **"Einhänder"**는 독일어로 **"한 손잡이"**라는 뜻으로, 게임 속 외팔 전투기의 조종사를 의미합니다. 파이널 판타지 시리즈로 유명한 스퀘어가 만든 유일한 슈팅 게임으로, 1997년 PS1에서 완전한 3D 폴리곤 비주얼과 다이나믹 카메라를 구현해 장르의 역사를 새로 썼습니다.
 
 메타크리틱 **89/100**, IGN **9/10**, EGM **9.2/10**의 압도적 호평을 받았으며, **"역대 최고의 슈팅 게임 중 하나"**로 꼽히는 명작입니다.
-
----
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
-
-![아인헨더 표지](/assets/img/posts/ps1/Einhänder_front.jpg)
-
-![아인헨더 타이틀 화면](/assets/img/posts/ps1/Einhänder_title.jpg)
-
-![아인헨더 플레이 화면 1](/assets/img/posts/ps1/Einhänder_sc1.jpg)
-
-![아인헨더 플레이 화면 2](/assets/img/posts/ps1/Einhänder_sc2.jpg)
-
-</div>
 
 ---
 

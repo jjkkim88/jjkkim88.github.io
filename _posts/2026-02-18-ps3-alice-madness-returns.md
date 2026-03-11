@@ -11,25 +11,18 @@ image:
 
 ## 📜 앨리스 매드니스 리턴즈 (Alice: Madness Returns)
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+  <img src="/assets/img/posts/ps3/alice_front.jpg" alt="앨리스 매드니스 리턴즈 PS3 표지">
+  <img src="/assets/img/posts/ps3/alice_title.webp" alt="앨리스 매드니스 리턴즈 PS3 타이틀">
+  <img src="/assets/img/posts/ps3/alice_sc1.webp" alt="앨리스 매드니스 리턴즈 PS3 스크린샷1">
+  <img src="/assets/img/posts/ps3/alice_sc2.jpg" alt="앨리스 매드니스 리턴즈 PS3 스크린샷2">
+</div>
+
 **앨리스 매드니스 리턴즈**는 스파이시 호스(Spicy Horse)가 개발하고 EA가 퍼블리싱한 PS3용 3인칭 액션 어드벤처 게임입니다. 2011년 6월 14일(북미), 6월 16일(유럽), 7월 21일(일본)에 발매되었습니다.
 
 루이스 캐럴의 『이상한 나라의 앨리스』를 어두운 심리 호러로 재해석한 **아메리칸 맥기의 앨리스(2000)**의 11년 만의 후속작입니다. 빅토리아 시대 런던을 배경으로, **억압된 기억과 정체성의 붕괴**라는 심리적 테마를 원더랜드라는 앨리스의 내면 세계로 표현한 작품입니다.
 
 메타크리틱 **75/100(PC) / 70/100(PS3·Xbox 360)**의 평가를 받았으며, 강렬한 아트 디렉션과 독창적인 세계관으로 컬트적 팬층을 보유한 게임입니다. **PS3 리테일 패키지에는 전작 아메리칸 맥기의 앨리스가 보너스로 포함**됩니다.
-
----
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
-
-![앨리스 매드니스 리턴즈 표지](/assets/img/posts/ps3/alice_front.jpg)
-
-![앨리스 매드니스 리턴즈 타이틀 화면](/assets/img/posts/ps3/alice_title.webp)
-
-![앨리스 매드니스 리턴즈 플레이 화면 1](/assets/img/posts/ps3/alice_sc1.webp)
-
-![앨리스 매드니스 리턴즈 플레이 화면 2](/assets/img/posts/ps3/alice_sc2.jpg)
-
-</div>
 
 ---
 

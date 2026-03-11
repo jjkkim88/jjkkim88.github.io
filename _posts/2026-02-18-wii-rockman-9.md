@@ -11,25 +11,18 @@ image:
 
 ## 📜 록맨 9 야망의 부활 (Mega Man 9)
 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+  <img src="/assets/img/posts/wii/rockman9_front.jpg" alt="록맨 9 Wii 표지">
+  <img src="/assets/img/posts/wii/rockman9_title.png" alt="록맨 9 Wii 타이틀">
+  <img src="/assets/img/posts/wii/rockman9_sc1.jpg" alt="록맨 9 Wii 스크린샷1">
+  <img src="/assets/img/posts/wii/rockman9_sc2.jpg" alt="록맨 9 Wii 스크린샷2">
+</div>
+
 **록맨 9 ~야망의 부활!!~**은 인티 크리에이츠가 개발하고 캡콤이 퍼블리싱한 WiiWare용 2D 액션 플랫폼 게임입니다. 2008년 9월 22일(북미) / 24일(일본) **WiiWare 선행 출시**되었으며, 이후 PSN과 Xbox Live로 이식되었습니다.
 
 2008년이라는 HD 게임 전성기에, 캡콤은 의도적으로 **패미컴(NES) 8비트 그래픽과 사운드**로 회귀한 록맨 신작을 내놓았습니다. 슬라이딩과 차지샷까지 삭제하며 록맨 1·2의 원점으로 되돌아간 이 선택은, 당시로서는 파격적이었고 결과적으로 **레트로 게임 부흥의 선구자**가 된 작품입니다.
 
 메타크리틱 **83/100**, IGN **8.6/10(에디터스 초이스)** 등 높은 평가를 받았으며, **시리즈 최초의 여성 보스(스플래시 우먼)**가 등장한 것으로도 기록됩니다.
-
----
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
-
-![록맨 9 표지](/assets/img/posts/wii/rockman9_front.jpg)
-
-![록맨 9 타이틀 화면](/assets/img/posts/wii/rockman9_title.png)
-
-![록맨 9 플레이 화면 1](/assets/img/posts/wii/rockman9_sc1.jpg)
-
-![록맨 9 플레이 화면 2](/assets/img/posts/wii/rockman9_sc2.jpg)
-
-</div>
 
 ---
 
