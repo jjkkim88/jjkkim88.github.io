@@ -10,20 +10,20 @@ image:
   alt: "Sengoku Basara Chronicle Heroes PSP"
 ---
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
-![표지](/assets/img/posts/psp/basarahero_front.jpg)
-![타이틀](/assets/img/posts/psp/basarahero_title.jpg)
-![스크린샷1](/assets/img/posts/psp/basarahero_sc1.jpg)
-![스크린샷2](/assets/img/posts/psp/basarahero_sc2.webp)
-</div>
-
 ## 전국 바사라 - 크로니클 히어로즈 (Sengoku Basara Chronicle Heroes)
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+  <img src="/assets/img/posts/psp/basarahero_front.jpg" alt="전국 바사라 크로니클 히어로즈 표지">
+  <img src="/assets/img/posts/psp/basarahero_title.jpg" alt="전국 바사라 크로니클 히어로즈 타이틀">
+  <img src="/assets/img/posts/psp/basarahero_sc1.jpg" alt="전국 바사라 크로니클 히어로즈 스크린샷1">
+  <img src="/assets/img/posts/psp/basarahero_sc2.webp" alt="전국 바사라 크로니클 히어로즈 스크린샷2">
+</div>
 
 **전국 바사라 - 크로니클 히어로즈**는 2011년 캡콤이 PSP로 출시한 난전 액션 게임이다. 개발은 **Access Games**가 담당했으며, 2008년 PSP로 발매된 **전국 바사라 배틀 히어로즈**의 사실상 후속 타이틀에 해당한다. 전국 바사라 시리즈의 과장된 무장 연출과 통쾌한 다수 격파 전투를 그대로 계승하면서, 신규 캐릭터와 공중전 시스템, 그리고 시리즈 과거 명장면을 돌아보는 크로니클 모드를 추가한 것이 핵심이다.
 
 ---
 
-## 출시 정보
+## 📅 출시 정보
 
 | 항목 | 내용 |
 |------|------|
@@ -53,7 +53,7 @@ image:
 
 ---
 
-## 핵심 시스템
+## ⚙️ 핵심 시스템
 
 ### 천하통일 전기 모드
 전작의 스토리 모드 대신 도입된 핵심 진행 모드다. 각 무장을 선택해 다양한 전장을 거치며 천하통일을 목표로 나아가는 구조로, 짧은 세션 단위로 반복 플레이하기에 적합한 형태다. PSP의 특성상 짧게 끊어서 즐기는 방식에 잘 맞춰진 설계다.
@@ -69,7 +69,7 @@ image:
 
 ---
 
-## 등장 무장
+## 👥 등장 무장
 
 배틀 히어로즈의 기존 로스터를 전원 계승하면서, **전국 바사라 3**에서 등장한 신규 무장들이 추가되었다. 대표적으로 추가된 인물은 다음과 같다.
 
@@ -86,7 +86,7 @@ image:
 
 ---
 
-## 플레이 후기
+## 🎮 플레이 후기
 
 전국 바사라 시리즈 특유의 호쾌한 난전 감각은 크로니클 히어로즈에서도 변함없다. 공중전이 추가되면서 전작보다 전투 표현이 조금 더 다채로워진 느낌이고, PSP를 켜서 짧게 한판 즐기기에 딱 맞는 템포는 여전하다.
 
