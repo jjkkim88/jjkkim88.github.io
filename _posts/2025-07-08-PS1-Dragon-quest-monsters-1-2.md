@@ -22,7 +22,7 @@ image:
   <img src="/assets/img/posts/ps1/DQM_screen2.png" alt="드래곤 퀘스트 몬스터즈 PS1 몬스터 조합 화면">
 </div>
 
-[드래곤 퀘스트 몬스터즈 1&2 롬파일 다운로드](https://link-target.net/538170/dragon-quest-7-ps1)
+**[드래곤 퀘스트 몬스터즈 1&2 롬파일 다운로드](https://link-target.net/538170/dragon-quest-7-ps1)**
 
 ---
 

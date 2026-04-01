@@ -24,6 +24,8 @@ image:
   <img src="/assets/img/posts/ps1/Valkyrie_sc2.jpg" alt="발키리 프로파일 PS1 던전 탐험 화면">
 </div>
 
+**[발키리 프로파일 롬파일 다운로드](https://link-center.net/538170/9wUloBZ64Gio)**
+
 ---
 
 ## 📖 발키리 프로파일 스토리 배경
@@ -93,6 +95,7 @@ image:
 
 ## 🔗 참고 링크
 
+- [발키리 프로파일 롬파일 다운로드](https://link-center.net/538170/9wUloBZ64Gio)
 - [발키리 프로파일 - 나무위키](https://namu.wiki/w/%EB%B0%9C%ED%82%A4%EB%A6%AC%20%ED%94%84%EB%A1%9C%ED%8C%8C%EC%9D%BC)
 - [발키리 프로파일 -레나스- (PSP) - 나무위키](https://namu.wiki/w/%EB%B0%9C%ED%82%A4%EB%A6%AC%20%ED%94%84%EB%A1%9C%ED%8C%8C%EC%9D%BC%20-%EB%A0%88%EB%82%98%EC%8A%A4-)
 - [발키리 프로파일 - 위키백과](https://ko.wikipedia.org/wiki/%EB%B0%9C%ED%82%A4%EB%A6%AC_%ED%94%84%EB%A1%9C%ED%8C%8C%EC%9D%BC_(%EB%B9%84%EB%94%94%EC%98%A4_%EA%B2%8C%EC%9E%84))
