@@ -22,6 +22,8 @@ image:
   <img src="/assets/img/posts/psp/SDGGGWORLD_sc2.jpg" alt="SD건담 G제너레이션 월드 유닛 개발 화면">
 </div>
 
+[SD건담 G제너레이션 World 한글패치 롬파일 다운로드](https://direct-link.net/538170/64cxv2Mjedmi)
+
 ---
 
 ## 📅 출시 정보
@@ -176,6 +178,7 @@ PSP판의 가장 큰 문제는 **로딩**이다. 스테이지 진입, 전투 애
 
 ## 🔗 SD건담 G제너레이션 월드 참고 링크
 
+- [SD건담 G제너레이션 World 한글패치 롬파일 다운로드](https://direct-link.net/538170/64cxv2Mjedmi)
 - [SD건담 G제네레이션 WORLD - 나무위키](https://namu.wiki/w/SD%EA%B1%B4%EB%8B%B4%20G%EC%A0%9C%EB%84%A4%EB%A0%88%EC%9D%B4%EC%85%98%20WORLD)
 - [SD건담 G제네레이션 시리즈 - 나무위키](https://namu.wiki/w/SD%EA%B1%B4%EB%8B%B4%20G%EC%A0%9C%EB%84%A4%EB%A0%88%EC%9D%B4%EC%85%98%20%EC%8B%9C%EB%A6%AC%EC%A6%88)
 - [SD Gundam G Generation World - GameFAQs](https://gamefaqs.gamespot.com/psp/614484-sd-gundam-g-generation-world)

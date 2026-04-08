@@ -18,6 +18,8 @@ image:
   <img src="/assets/img/posts/ps1/srw_comp_sc2.jpg" alt="슈퍼로봇대전 컴플리트 박스 맵 화면">
 </div>
 
+[슈퍼로봇대전 컴플리트 박스 일어판 롬파일 다운로드](https://link-center.net/538170/8dUOUqdbMbDF)
+
 ---
 
 **윈키소프트(WinkySoft)** 개발, **반프레스토(Banpresto)** 배급의 PS1용 시뮬레이션 RPG 컴필레이션이다. 시리즈 초창기 3작품인 **제2차 슈퍼로봇대전**(FC, 1991), **제3차 슈퍼로봇대전**(SFC, 1993), **슈퍼로봇대전 EX**(SFC, 1994)를 PS1의 **슈퍼로봇대전 F / F완결편 엔진**으로 완전히 새로 만든 리메이크 작품이다. 단순한 이식이나 리마스터가 아니라, 전투 시스템·스프라이트·음성·UI를 전면 교체한 풀 리메이크에 해당한다. 판매량 약 **26만 장**. 일본 전용 발매로 해외에는 출시되지 않았다.
@@ -172,6 +174,7 @@ EX의 마사키 루트 5장(오라 쉽 스테이지)에서, 고쇼군이 함선 
 
 ## 🔗 참고 링크
 
+- [슈퍼로봇대전 컴플리트 박스 일어판 롬파일 다운로드](https://link-center.net/538170/8dUOUqdbMbDF)
 - [슈퍼로봇대전 컴플리트 박스 - 슈퍼로봇대전 Wiki (Fandom)](https://superrobotwars.fandom.com/wiki/Super_Robot_Wars_Complete_Box)
 - [슈퍼로봇대전 컴플리트 박스 - Akurasu Wiki](https://akurasu.net/wiki/Super_Robot_Wars/Complete_Box)
 - [슈퍼로봇대전 컴플리트 박스 - Wikipedia (일본어)](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AA%E3%83%BC%E3%83%88%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9)
