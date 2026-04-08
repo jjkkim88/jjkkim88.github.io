@@ -24,7 +24,7 @@ image:
   <img src="/assets/img/posts/ps1/Valkyrie_sc2.jpg" alt="발키리 프로파일 PS1 던전 탐험 화면">
 </div>
 
-**[발키리 프로파일 롬파일 다운로드](https://link-center.net/538170/9wUloBZ64Gio)**
+### [발키리 프로파일 롬파일 다운로드](https://link-center.net/538170/9wUloBZ64Gio)
 
 ---
 

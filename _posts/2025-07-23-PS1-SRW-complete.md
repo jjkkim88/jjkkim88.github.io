@@ -18,7 +18,7 @@ image:
   <img src="/assets/img/posts/ps1/srw_comp_sc2.jpg" alt="슈퍼로봇대전 컴플리트 박스 맵 화면">
 </div>
 
-[슈퍼로봇대전 컴플리트 박스 일어판 롬파일 다운로드](https://link-center.net/538170/8dUOUqdbMbDF)
+### [슈퍼로봇대전 컴플리트 박스 일어판 롬파일 다운로드](https://link-center.net/538170/8dUOUqdbMbDF)
 
 ---
 

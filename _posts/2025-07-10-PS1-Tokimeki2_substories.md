@@ -22,9 +22,10 @@ image:
   <img src="/assets/img/posts/ps1/toki2sub_sc2.png" alt="토키메키 메모리얼 2 서브스토리즈 미니게임 화면">
 </div>
 
-[도키메키 메모리얼 2 서브트로리즈 1 한글패치판 다운로드](https://link-hub.net/538170/tokimeki-memorial-2-sub1)
-[도키메키 메모리얼 2 서브트로리즈 2 한글패치판 다운로드](https://direct-link.net/538170/tokimeki-memories-2-sub-2)
-[도키메키 메모리얼 2 서브트로리즈 3 한글패치판 다운로드](https://direct-link.net/538170/tokimeki-sutories-2-vol3)
+### 도키메키 메모리얼 2 서브스토리즈 한글패치판 다운로드
+[도키메키 메모리얼 2 서브스토리즈 1 한글패치판 다운로드](https://link-hub.net/538170/tokimeki-memorial-2-sub1)
+[도키메키 메모리얼 2 서브스토리즈 2 한글패치판 다운로드](https://direct-link.net/538170/tokimeki-memories-2-sub-2)
+[도키메키 메모리얼 2 서브스토리즈 3 한글패치판 다운로드](https://direct-link.net/538170/tokimeki-sutories-2-vol3)
 
 ---
 
@@ -163,9 +164,9 @@ image:
 
 ## 🔗 참고 링크
 
-- [도키메키 메모리얼 2 서브트로리즈 1 한글패치판 다운로드](https://link-hub.net/538170/tokimeki-memorial-2-sub1)
-- [도키메키 메모리얼 2 서브트로리즈 2 한글패치판 다운로드](https://direct-link.net/538170/tokimeki-memories-2-sub-2)
-- [도키메키 메모리얼 2 서브트로리즈 3 한글패치판 다운로드](https://direct-link.net/538170/tokimeki-sutories-2-vol3)
+- [도키메키 메모리얼 2 서브스토리즈 1 한글패치판 다운로드](https://link-hub.net/538170/tokimeki-memorial-2-sub1)
+- [도키메키 메모리얼 2 서브스토리즈 2 한글패치판 다운로드](https://direct-link.net/538170/tokimeki-memories-2-sub-2)
+- [도키메키 메모리얼 2 서브스토리즈 3 한글패치판 다운로드](https://direct-link.net/538170/tokimeki-sutories-2-vol3)
 - [도키메키 메모리얼 2 서브스토리즈 - 나무위키](https://namu.wiki/w/%EB%8F%84%ED%82%A4%EB%A9%94%ED%82%A4%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%96%BC%202%20%EC%84%9C%EB%B8%8C%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A6%88)
 - [ときめきメモリアル2 Substories - Wikipedia (일본어)](https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%8D%E3%82%81%E3%81%8D%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%A2%E3%83%AB2_Substories)
 - [ときめきメモリアル2 Substories - 니코니코 대백과](https://dic.nicovideo.jp/a/%E3%81%A8%E3%81%8D%E3%82%81%E3%81%8D%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%A2%E3%83%AB2%20substories)

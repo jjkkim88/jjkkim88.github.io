@@ -22,7 +22,7 @@ image:
   <img src="/assets/img/posts/psp/SDGGGWORLD_sc2.jpg" alt="SD건담 G제너레이션 월드 유닛 개발 화면">
 </div>
 
-[SD건담 G제너레이션 World 한글패치 롬파일 다운로드](https://direct-link.net/538170/64cxv2Mjedmi)
+### [SD건담 G제너레이션 World 한글패치 롬파일 다운로드](https://direct-link.net/538170/64cxv2Mjedmi)
 
 ---
 
