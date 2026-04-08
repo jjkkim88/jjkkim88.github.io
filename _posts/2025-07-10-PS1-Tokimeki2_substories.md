@@ -23,10 +23,10 @@ image:
 </div>
 
 ### 도키메키 메모리얼 2 서브스토리즈 한글패치판 다운로드
-[도키메키 메모리얼 2 서브스토리즈 1 한글패치판 다운로드](https://link-hub.net/538170/tokimeki-memorial-2-sub1)
-[도키메키 메모리얼 2 서브스토리즈 2 한글패치판 다운로드](https://direct-link.net/538170/tokimeki-memories-2-sub-2)
-[도키메키 메모리얼 2 서브스토리즈 3 한글패치판 다운로드](https://direct-link.net/538170/tokimeki-sutories-2-vol3)
-
+- [도키메키 메모리얼 2 서브스토리즈 1 한글패치판 다운로드](https://link-hub.net/538170/tokimeki-memorial-2-sub1)  
+- [도키메키 메모리얼 2 서브스토리즈 2 한글패치판 다운로드](https://direct-link.net/538170/tokimeki-memories-2-sub-2)  
+- [도키메키 메모리얼 2 서브스토리즈 3 한글패치판 다운로드](https://direct-link.net/538170/tokimeki-sutories-2-vol3)  
+  
 ---
 
 ## 📅 토키메키 메모리얼 2 서브스토리즈 출시 정보
