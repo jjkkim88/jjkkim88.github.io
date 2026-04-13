@@ -18,6 +18,8 @@ image:
   <img src="/assets/img/posts/ps3/mgs4_sc2.jpg" alt="메탈기어솔리드4 PS3 스크린샷2">
 </div>
 
+### [메탈 기어 솔리드 4 한글판 다운로드](https://link-target.net/538170/cNUbnoMHiZ8Z)
+
 메탈 기어 솔리드 4: 건즈 오브 패트리어트는 코지마 히데오가 "이번이 마지막"이라고 선언하며 만든 시리즈의 완결편입니다. 2008년 6월 12일 전 세계 동시 발매라는 당시로서는 이례적인 방식으로 출시되었고, 이 날짜는 메탈 기어 솔리드 10주년이자 초대 메탈 기어 북미 발매 20주년에 맞춘 것이었습니다. 파미통 40점 만점, 메타크리틱 94점, 전 세계 600만 장 이상 판매라는 기록을 세웠지만, 동시에 "이건 게임이야 영화야?"라는 논쟁도 함께 남긴 독특한 작품입니다.
 
 ---
@@ -335,6 +337,7 @@ Act 5 스네이크 vs 오셀롯 주먹 싸움에서 전투가 진행될수록 **
 
 ## 🔗 메탈 기어 솔리드 4 참고 링크
 
+- [메탈 기어 솔리드 4 한글판 다운로드](https://link-target.net/538170/cNUbnoMHiZ8Z)
 - [메탈 기어 솔리드 4 - 나무위키](https://namu.wiki/w/%EB%A9%94%ED%83%88%EA%B8%B0%EC%96%B4%20%EC%86%94%EB%A6%AC%EB%93%9C%204)
 - [Metal Gear Solid 4 - Metal Gear Wiki (Fandom)](https://metalgear.fandom.com/wiki/Metal_Gear_Solid_4:_Guns_of_the_Patriots)
 - [Metal Gear Solid 4 - Wikipedia](https://en.wikipedia.org/wiki/Metal_Gear_Solid_4:_Guns_of_the_Patriots)
