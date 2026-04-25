@@ -19,6 +19,8 @@ image:
   <img src="/assets/img/posts/3ds/pokemonsuperdungeon_sc2.jpg" alt="포켓몬 초 불가사의 던전 3DS 스크린샷2">
 </div>
 
+### - [포켓몬스터 초 불가사의의 던전 한글패치판 롬파일 다운로드](https://link-hub.net/538170/pokemon-super-mystery1)
+
 **포켓몬스터 초 불가사의 던전(Pokémon Super Mystery Dungeon)**은 스파이크 춘소프트(Spike Chunsoft)가 개발하고 포켓몬 컴퍼니·닌텐도가 퍼블리싱한 닌텐도 3DS용 던전 RPG입니다. 2015년 9월 17일 일본, 2015년 11월 20일 북미에서 발매되었으며, **포켓몬 불가사의 던전 시리즈 최초로 전 세대 720마리 포켓몬이 모두 등장**하는 집대성 작품입니다.
 
 인간이 포켓몬으로 각성한 주인공이 파트너 포켓몬과 함께 탐험대 활동을 하며, 세계를 위협하는 **다크 매터(Dark Matter)**의 음모에 맞서는 스토리가 중심입니다.
@@ -189,5 +191,6 @@ image:
 
 ## 🔗 참고 링크
 
+- [포켓몬스터 초 불가사의의 던전 한글패치판 롬파일 다운로드](https://link-hub.net/538170/pokemon-super-mystery1)
 - [Pokémon Super Mystery Dungeon — Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Super_Mystery_Dungeon)
 - [Pokémon Super Mystery Dungeon — GameFAQs (3DS)](https://gamefaqs.gamespot.com/3ds/160809-pokemon-super-mystery-dungeon)
