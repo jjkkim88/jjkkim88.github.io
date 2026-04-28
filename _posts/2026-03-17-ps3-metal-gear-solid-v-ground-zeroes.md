@@ -19,6 +19,9 @@ image:
   <img src="/assets/img/posts/ps3/msg5gz_sc2.png" alt="메탈기어 솔리드 5 그라운드 제로 PS3 스크린샷2">
 </div>
 
+### [메탈기어 솔리드 5 그라운드 제로 영문판 롬파일 다운로드](https://link-hub.net/538170/TRYcZNjtPRPh)
+
+
 **메탈기어 솔리드 V: 그라운드 제로(Metal Gear Solid V: Ground Zeroes)**는 코지마 프로덕션이 개발하고 코나미가 발매한 PS3용 오픈 월드 잠입 액션 게임입니다. 2014년 3월 PS3·PS4·Xbox 360·Xbox One 동시 발매되었으며, **메탈기어 솔리드 V: 팬텀 페인(2015)으로 이어지는 프롤로그** 성격의 단편 타이틀입니다.
 
 메탈기어 솔리드 시리즈 최초로 **오픈 월드 방식의 자유로운 잠입 플레이**를 도입한 작품으로, 짧은 분량에도 불구하고 시리즈의 새로운 방향성을 제시한 전환점으로 평가받습니다.
@@ -195,5 +198,6 @@ PS3 전용 데자 뷰 미션에서는 **MGS1의 특정 장면을 재현**해야 
 
 ## 🔗 참고 링크
 
+- [메탈기어 솔리드 5 그라운드 제로 영문판 롬파일 다운로드](https://link-hub.net/538170/TRYcZNjtPRPh)
 - [Metal Gear Solid V: Ground Zeroes — Wikipedia](https://en.wikipedia.org/wiki/Metal_Gear_Solid_V:_Ground_Zeroes)
 - [Metal Gear Solid V: Ground Zeroes — GameFAQs (PS3)](https://gamefaqs.gamespot.com/ps3/739464-metal-gear-solid-v-ground-zeroes)
