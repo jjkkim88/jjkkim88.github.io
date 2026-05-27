@@ -19,6 +19,8 @@ image:
   <img src="/assets/img/posts/ps3/katamariforever_sc2.webp" alt="괴혼포에버 PS3 스크린샷2">
 </div>
 
+### [괴혼 포에버 PS3 롬파일 다운로드](https://link-target.net/538170/TgF6a6RmU1lh)
+
 **괴혼포에버**(塊魂TRIBUTE, 해외명 Katamari Forever)는 2009년 PS3로 발매된 '괴혼(카타마리)' 시리즈의 다섯 번째 작품입니다. 개발사 남코 반다이(현 반다이남코)가 PS3의 성능을 살려 시리즈 역대 인기 스테이지를 리마스터하고, 신규 스테이지와 새로운 메카닉을 추가한 **시리즈 집대성** 성격의 타이틀입니다.
 
 | 항목 | 정보 |
@@ -243,6 +245,7 @@ J-Pop, 보사노바, 재즈, 일렉트로니카, 시부야계까지 장르를 �
 
 ## 🔗 참고 링크
 
+- [괴혼 포에버 PS3 롬파일 다운로드](https://link-target.net/538170/TgF6a6RmU1lh)
 - [Katamari Forever — GameFAQs 공략](https://gamefaqs.gamespot.com/ps3/959654-katamari-forever/faqs)
 - [Katamari Wiki — Fandom](https://katamari.fandom.com/wiki/Katamari_Forever)
 - [Katamari Forever — IGN Review](https://www.ign.com/articles/2009/09/22/katamari-forever-review)
