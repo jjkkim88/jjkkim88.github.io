@@ -19,6 +19,8 @@ image:
   <img src="/assets/img/posts/wii/marioslugger_sc2.jpg" alt="마리오 슈퍼 슬러거 Wii 스크린샷2">
 </div>
 
+### [마리오 슈퍼 슬러거 Wii 영문판 다운로드](https://link-center.net/538170/58OgHT0BPlYY)
+
 **마리오 슈퍼 슬러거**는 남코 반다이 게임즈(Namco Bandai Games)와 나우 프로덕션(NOW Production)이 공동 개발하고 닌텐도가 퍼블리싱한 **Wii용 야구 스포츠 게임**입니다. 게임큐브용 전작 **마리오 슈퍼스타 베이스볼(Mario Superstar Baseball, 2005)**의 정식 후속작으로, Wii 리모컨의 모션 컨트롤을 활용해 실제로 배트를 휘두르고 공을 던지는 듯한 직관적인 조작감이 핵심입니다.
 
 마리오 시리즈 역대 최다인 **41명 이상의 플레이어블 캐릭터**가 등장하며, 캐릭터 간의 "케미스트리(Chemistry)" 시스템, 개성 넘치는 9개 스타디움, 그리고 Wii 특유의 파티 게임 감성이 어우러진 작품입니다.
@@ -398,6 +400,7 @@ image:
 
 ## 🔗 참고 링크
 
+- [마리오 슈퍼 슬러거 Wii 영문판 다운로드](https://link-center.net/538170/58OgHT0BPlYY)
 - [Mario Super Sluggers - Wikipedia](https://en.wikipedia.org/wiki/Mario_Super_Sluggers)
 - [Mario Super Sluggers - Super Mario Wiki](https://www.mariowiki.com/Mario_Super_Sluggers)
 - [Mario Super Sluggers - Metacritic](https://www.metacritic.com/game/mario-super-sluggers/)
