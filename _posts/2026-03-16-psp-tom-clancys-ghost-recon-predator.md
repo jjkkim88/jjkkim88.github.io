@@ -15,7 +15,7 @@ image:
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
   <img src="/assets/img/posts/psp/ghostreconpre_front.jpg" alt="고스트 리콘 프레데터 PSP 표지">
   <img src="/assets/img/posts/psp/ghostreconpre_title.jpg" alt="고스트 리콘 프레데터 PSP 타이틀">
-  <img src="/assets/img/posts/psp/ghostreconpre_sc1.jpg" alt="고스트 리콘 프레데터 PSP 스크린샷1">
+  <img src="/assets/img/posts/psp/ghostreconpre_sc1.webp" alt="고스트 리콘 프레데터 PSP 스크린샷1">
   <img src="/assets/img/posts/psp/ghostreconpre_sc2.jpg" alt="고스트 리콘 프레데터 PSP 스크린샷2">
 </div>
 
