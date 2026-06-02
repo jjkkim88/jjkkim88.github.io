@@ -19,7 +19,7 @@ image:
   <img src="/assets/img/posts/psp/bleach2_sc2.jpg" alt="블리치 히트 더 소울 2 스크린샷">
 </div>
 
----
+### [블리치 히트 더 소울 2 영문판 다운로드](https://link-target.net/538170/xH87OTBM3tos)
 
 **아이팩(8ing)** 개발, **소니 컴퓨터 엔터테인먼트(SCE)** 배급의 PSP용 대전 액션 게임이다. 전작 히트 더 소울 1(2005년 3월)의 후속작으로, 발매 간격이 불과 **6개월**밖에 되지 않지만 변화폭은 크다. 원작 스토리 커버 범위가 사신 대리 편에서 **소울 소사이어티 침입 편**까지 확장되었고, 플레이어블 캐릭터가 14명에서 **32명**으로 2배 이상 늘었다. 시리즈의 핵심 시스템인 **만해(卍解) 변신**이 처음 도입된 작품이기도 하다. 1편이 원작 격투게임의 프로토타입이었다면, 2편부터 히트 더 소울 시리즈의 골격이 완성되었다고 볼 수 있다. 일본 전용 발매로 해외에는 출시되지 않았다.
 
@@ -194,5 +194,6 @@ PSP의 물리적 한계로 인해 버튼 수가 부족하다. 가정용 격투�
 
 ## 🔗 참고 링크
 
+- [블리치 히트 더 소울 2 영문판 다운로드 링크](https://link-target.net/538170/xH87OTBM3tos)
 - [Bleach: Heat the Soul 2 - Bleach Wiki (Fandom)](https://bleach.fandom.com/wiki/Bleach:_Heat_the_Soul_2)
 - [Bleach: Heat the Soul 2 - Wikipedia (일본어)](https://ja.wikipedia.org/wiki/BLEACH_%E3%83%92%E3%83%BC%E3%83%88%E3%83%BB%E3%82%B6%E3%83%BB%E3%82%BD%E3%82%A6%E3%83%AB2)
