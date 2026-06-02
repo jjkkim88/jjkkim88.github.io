@@ -15,8 +15,8 @@ image:
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
   <img src="/assets/img/posts/psp/queens_front.jpg" alt="퀸스 블레이드 PSP 표지">
   <img src="/assets/img/posts/psp/queens_title.jpg" alt="퀸스 블레이드 PSP 타이틀">
-  <img src="/assets/img/posts/psp/queens_sc1.jpg" alt="퀸스 블레이드 PSP 스크린샷1">
-  <img src="/assets/img/posts/psp/queens_sc2.jpg" alt="퀸스 블레이드 PSP 스크린샷2">
+  <img src="/assets/img/posts/psp/queens_sc1.png" alt="퀸스 블레이드 PSP 스크린샷1">
+  <img src="/assets/img/posts/psp/queens_sc2.png" alt="퀸스 블레이드 PSP 스크린샷2">
 </div>
 
 **퀸스 블레이드(Queen's Blade)**는 유명한 미디어믹스 프랜차이즈를 바탕으로 한 플레이스테이션 포터블(PSP)용 대전 액션 게임입니다. **원작의 개성 강한 캐릭터들을 1대1 격투로 대결시키는 게임**으로, 휴대용 기기 특성상 짧은 세션으로 끊어 플레이하기에 좋은 구조를 갖추고 있습니다.

@@ -14,8 +14,8 @@ image:
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
   <img src="/assets/img/posts/psp/burnoutlegend_front.jpg" alt="번아웃 레전드 PSP 표지">
-  <img src="/assets/img/posts/psp/burnoutlegend_title.jpg" alt="번아웃 레전드 PSP 타이틀">
-  <img src="/assets/img/posts/psp/burnoutlegend_sc1.jpg" alt="번아웃 레전드 PSP 스크린샷1">
+  <img src="/assets/img/posts/psp/burnoutlegend_title.png" alt="번아웃 레전드 PSP 타이틀">
+  <img src="/assets/img/posts/psp/burnoutlegend_sc1.png" alt="번아웃 레전드 PSP 스크린샷1">
   <img src="/assets/img/posts/psp/burnoutlegend_sc2.jpg" alt="번아웃 레전드 PSP 스크린샷2">
 </div>
 
