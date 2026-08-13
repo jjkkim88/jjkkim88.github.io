@@ -19,7 +19,8 @@ image:
   <img src="/assets/img/posts/psp/final-fantasy-type-0_sc2.jpg" alt="파이널 판타지 타입0 PSP 스크린샷2">
 </div>
 
-### [파이널 판타지 영식 PSP 영문판 다운로드](https://direct-link.net/538170/pQdYW5aeD9Gr)
+### [파이널 판타지 영식 PSP 한글패치판 다운로드](https://link-center.net/538170/RBIe3bP8PTrx)
+
 
 **파이널 판타지 타입0**(Final Fantasy Type-0)은 2011년 10월 27일 일본에서 PSP로 발매된 액션 RPG입니다. 원래 **"파이널 판타지 아기토 XIII"**이라는 이름으로 2006년 E3에서 발표되었으며, FFXIII, FF Versus XIII(훗날 FFXV)과 함께 **파불라 노바 크리스탈리스(Fabula Nova Crystallis)** 프로젝트의 일부로 기획되었습니다. 디렉터는 훗날 FFXV를 맡게 되는 **타바타 하지메**입니다.
 
@@ -254,7 +255,9 @@ PSP에서의 카메라 조작 불편이 HD판에서 크게 개선되었지만, P
 
 ## 🔗 참고 링크
 
+- [파이널 판타지 영식 PSP 한글패치판 다운로드](https://link-center.net/538170/RBIe3bP8PTrx)
 - [파이널 판타지 영식 PSP 영문판 다운로드](https://direct-link.net/538170/pQdYW5aeD9Gr)
+- [파이널 판타지 영식 PSP 일어판 다운로드](https://1024terabox.com/s/10y7_7B5raSxXfmp91Nby1Q)
 - [Final Fantasy Type-0 — Final Fantasy Wiki](https://finalfantasy.fandom.com/wiki/Final_Fantasy_Type-0)
 - [Final Fantasy Type-0 HD — Gamer Guides 공략](https://www.gamerguides.com/final-fantasy-type-0/guide)
 - [Final Fantasy Type-0 — GameFAQs](https://gamefaqs.gamespot.com/psp/997070-final-fantasy-type-0/faqs)
