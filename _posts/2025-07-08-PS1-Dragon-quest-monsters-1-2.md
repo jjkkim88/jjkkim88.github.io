@@ -22,7 +22,8 @@ image:
   <img src="/assets/img/posts/ps1/DQM_screen2.png" alt="드래곤 퀘스트 몬스터즈 PS1 몬스터 조합 화면">
 </div>
 
-### [드래곤 퀘스트 몬스터즈 1&2 롬파일 다운로드](https://link-target.net/538170/dragon-quest-7-ps1)
+### [드래곤 퀘스트 몬스터즈 1&2 한글패치판 롬파일 다운로드](https://link-center.net/538170/JHvodC5yDZxs)
+
 
 ---
 
@@ -128,7 +129,8 @@ PS1판은 GBC의 도트 그래픽이 3D로 바뀌면서 몬스터들의 모습�
 
 ## 🔗 드퀘몬 참고 링크
 
-- [드래곤 퀘스트 몬스터즈 1&2 롬파일 다운로드](https://link-target.net/538170/dragon-quest-7-ps1)
+- [드래곤 퀘스트 몬스터즈 1&2 한글패치판 롬파일 다운로드](https://link-center.net/538170/JHvodC5yDZxs)
+- [드래곤 퀘스트 몬스터즈 1&2 일어판 롬파일 다운로드](https://link-target.net/538170/dragon-quest-7-ps1)
 - [드래곤 퀘스트 몬스터즈: 테리의 원더랜드 - 나무위키](https://namu.wiki/w/%EB%93%9C%EB%9E%98%EA%B3%A4%20%ED%80%98%EC%8A%A4%ED%8A%B8%20%EB%AA%AC%EC%8A%A4%ED%84%B0%EC%A6%88:%20%ED%85%8C%EB%A6%AC%EC%9D%98%20%EC%9B%90%EB%8D%94%EB%9E%9C%EB%93%9C)
 - [Dragon Quest Monsters 1·2 - Dragon Quest Wiki (Fandom)](https://dragonquest.fandom.com/wiki/Dragon_Quest_Monsters_1%C2%B72)
 - [ドラゴンクエストモンスターズ1・2 - Wikipedia (일본어)](https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA1%E3%83%BB2_%E6%98%9F%E9%99%8D%E3%82%8A%E3%81%AE%E5%8B%87%E8%80%85%E3%81%A8%E7%89%A7%E5%A0%B4%E3%81%AE%E4%BB%B2%E9%96%93%E3%81%9F%E3%81%A1)
