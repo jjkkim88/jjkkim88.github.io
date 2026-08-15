@@ -19,6 +19,8 @@ image:
   <img src="/assets/img/posts/wsc/monoeygundam_sc2.jpg" alt="SD건담 G제네레이션 모노아이 건담즈 WSC 스크린샷2">
 </div>
 
+### [SD 건담 G 제너레이션 모노아이 건담즈 한글패치판 롬파일 다운로드](https://link-center.net/538170/f766OtsEr63P)
+
 **SD건담 G제네레이션 모노아이 건담즈(SD Gundam G Generation Mono-Eye Gundams)**는 반다이가 개발·발매한 원더스완 컬러(WonderSwan Color)용 시뮬레이션 게임입니다. 2001년 3월 일본 발매되었으며, **G제네레이션 시리즈** 중 지온(Zeon) 및 지온 계열 세력의 **모노아이(단안) 모빌슈트**에 특화된 스핀오프 타이틀입니다.
 
 연방군 계열 MS가 주축인 정규 G제네레이션 시리즈와 달리, **자쿠·겔구그·리큰·사자비** 등 지온·네오지온 계열 기체를 집중적으로 수록해 모노아이 MS 팬을 위한 특화 타이틀로 기획되었습니다.
@@ -143,5 +145,6 @@ WSC 특유의 **가로·세로 전환 기능**으로 전술 맵과 기체 목록
 
 ## 🔗 참고 링크
 
+- [SD 건담 G 제너레이션 모노아이 건담즈 한글패치판 롬파일 다운로드](https://link-center.net/538170/f766OtsEr63P)
 - [SD Gundam G Generation Mono-Eye Gundams — GameFAQs (WSC)](https://gamefaqs.gamespot.com/wsc/580148-sd-gundam-g-generation-mono-eye-gundams)
 - [SD Gundam G Generation — Wikipedia](https://en.wikipedia.org/wiki/SD_Gundam_G_Generation)
