@@ -3,7 +3,7 @@ title: "(3DS) 세계수의 미궁 1"
 published: false
 date: 2026-05-15
 categories: [3DS]
-tags: [3DS, RPG, 던전 RPG, ATLUS, 세계수의 미궁]
+tags: [3DS, RPG, 던전 RPG, Atlus, 세계수의 미궁]
 ---
 
 ## 📜 세계수의 미궁 1

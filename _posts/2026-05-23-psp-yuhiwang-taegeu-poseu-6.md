@@ -3,7 +3,7 @@ title: "(PSP) 유희왕 태그 포스 6"
 published: false
 date: 2026-05-23
 categories: [PSP]
-tags: [PSP, 카드게임, 대전, 유희왕, KONAMI]
+tags: [PSP, 카드게임, 대전, 유희왕, Konami]
 ---
 
 ## 📜 유희왕 태그 포스 6

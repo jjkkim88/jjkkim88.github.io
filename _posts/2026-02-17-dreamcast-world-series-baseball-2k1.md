@@ -3,7 +3,7 @@ title: "(DreamCast) 월드 시리즈 베이스볼 2K1 (World Series Baseball 2K1
 published: true
 date: 2026-02-17
 categories: [DreamCast]
-tags: [DreamCast, 스포츠, 야구, World Series Baseball, SEGA]
+tags: [DreamCast, 스포츠, 야구, World Series Baseball, Sega]
 image:
   path: /assets/img/posts/dreamcast/baseball2k1_thumb.jpg
   alt: World Series Baseball 2K1 Dreamcast

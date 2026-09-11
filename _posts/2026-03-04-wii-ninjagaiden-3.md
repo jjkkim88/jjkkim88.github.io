@@ -3,7 +3,7 @@ title: "(Wii) 닌자가이덴 3 (Ninja Gaiden II)"
 published: false
 date: 2026-03-04
 categories: [Wii]
-tags: [Wii, action, NinjaGaiden]
+tags: [Wii, Action, NinjaGaiden]
 ---
 
 ## 📜 닌자가이덴 3
