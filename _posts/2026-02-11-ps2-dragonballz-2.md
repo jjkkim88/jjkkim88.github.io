@@ -11,16 +11,19 @@ image:
 
 ## 📜 드래곤볼Z 2 (ドラゴンボールZ2 / Dragon Ball Z: Budokai 2)
 
-PS2용 드래곤볼 격투 게임 **Budokai 시리즈의 두 번째 작품**이다. 개발은 **Dimps**, 배급은 **Bandai**. 전작에서 셀편까지만 다뤘던 스토리를 **마인부우편**까지 확장했고, 가장 큰 변화는 **드래곤 셰이딩(셀셰이딩)** 도입으로 캐릭터 비주얼이 원작 애니메이션에 훨씬 가까워졌다는 점이다. 해외에서는 'Dragon Ball Z: Budokai 2'라는 이름으로 발매되었고, **한국에서도 한글 자막판이 정발**되어 당시 국내 드래곤볼 팬들에게 반가운 타이틀이었다.
-
----
-
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
   <img src="/assets/img/posts/ps2/dbz2_front.webp" alt="드래곤볼Z 2 표지">
   <img src="/assets/img/posts/ps2/dbz2_title.jpg" alt="드래곤볼Z 2 타이틀">
   <img src="/assets/img/posts/ps2/dbz2_sc1.jpg" alt="드래곤볼Z 2 스크린샷1">
   <img src="/assets/img/posts/ps2/dbz2_sc2.jpg" alt="드래곤볼Z 2 스크린샷2">
 </div>
+
+### [드래곤볼 Z 2 PS2 일어판 다운로드 링크](https://link-hub.net/538170/dragon-ball-z-2)
+
+---
+
+PS2용 드래곤볼 격투 게임 **드래곤볼Z 시리즈의 두 번째 작품**이다. 전작에서 셀편까지만 다뤘던 스토리를 **마인부우편**까지 확장했고, 가장 큰 변화는 **드래곤 셰이딩(셀셰이딩)** 도입으로 캐릭터 비주얼이 원작 애니메이션에 훨씬 가까워졌다는 점이다. 해외에서는 'Dragon Ball Z: Budokai 2'라는 이름으로 발매되었고, **한국에서도 정발**되어 당시 국내 드래곤볼 팬들에게 반가운 타이틀이었다.
+
 
 ---
 
@@ -192,7 +195,7 @@ PS2 시대에 일본 애니메이션 원작 게임이 한글화되어 나오는 
 
 ## 🎮 드래곤볼Z 2 플레이 후기
 
-한글판으로 처음 했을 때 가장 인상 깊었던 건 그래픽이었다. 전작(드래곤볼Z)은 3D 폴리곤이 어딘가 어색해서 "드래곤볼 캐릭터를 억지로 3D로 만든 느낌"이 있었는데, 드래곤 셰이딩이 적용된 2편은 확 달랐다. 에네르기파를 쏠 때 화면이 빛으로 가득 차는 연출을 보면 "아, 드래곤볼이다" 하는 느낌이 바로 든다.
+전작(드래곤볼Z)은 3D 폴리곤이 어딘가 어색해서 "드래곤볼 캐릭터를 억지로 3D로 만든 느낌"이 있었는데, 드래곤 셰이딩이 적용된 2편은 확 달랐다. 에네르기파를 쏠 때 화면이 빛으로 가득 차는 연출을 보면 "아, 드래곤볼이다" 하는 느낌이 바로 든다.
 
 한글 자막이 있다는 게 생각보다 큰 차이였다. 드래곤 월드 모드가 보드게임이라 텍스트가 꽤 많은데, 일판이었으면 대충 넘겼을 이벤트 대사를 한글로 읽으면서 진행할 수 있었다. 특히 마인부우편은 전작에 없던 새 스토리라 한글로 따라가니 몰입감이 달랐다.
 
@@ -206,6 +209,7 @@ PS2 시대에 일본 애니메이션 원작 게임이 한글화되어 나오는 
 
 ## 🔗 참고 링크
 
+- [드래곤볼 Z 2 PS2 일어판 다운로드 링크](https://link-hub.net/538170/dragon-ball-z-2)
 - [드래곤볼Z(PS2) - 나무위키](https://namu.wiki/w/%EB%93%9C%EB%9E%98%EA%B3%A4%EB%B3%BCZ(PS2))
 - [Dragon Ball Z: Budokai 2 - Dragon Ball Wiki (Fandom)](https://dragonball.fandom.com/wiki/Dragon_Ball_Z:_Budokai_2)
 - [Dragon Ball Z: Budokai 2 - Wikipedia](https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Budokai_2)

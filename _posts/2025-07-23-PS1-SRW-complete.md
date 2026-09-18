@@ -18,7 +18,7 @@ image:
   <img src="/assets/img/posts/ps1/srw_comp_sc2.jpg" alt="슈퍼로봇대전 컴플리트 박스 맵 화면">
 </div>
 
-### [슈퍼로봇대전 컴플리트 박스 일어판 롬파일 다운로드](https://link-center.net/538170/8dUOUqdbMbDF)
+### [슈퍼로봇대전 컴플리트 박스 한글패치판 롬파일 다운로드](https://link-center.net/538170/iOzVor7gFTeu)
 
 ---
 
@@ -174,6 +174,7 @@ EX의 마사키 루트 5장(오라 쉽 스테이지)에서, 고쇼군이 함선 
 
 ## 🔗 참고 링크
 
+- [슈퍼로봇대전 컴플리트 박스 한글패치판 롬파일 다운로드](https://link-center.net/538170/iOzVor7gFTeu)
 - [슈퍼로봇대전 컴플리트 박스 일어판 롬파일 다운로드](https://link-center.net/538170/8dUOUqdbMbDF)
 - [슈퍼로봇대전 컴플리트 박스 - 슈퍼로봇대전 Wiki (Fandom)](https://superrobotwars.fandom.com/wiki/Super_Robot_Wars_Complete_Box)
 - [슈퍼로봇대전 컴플리트 박스 - Akurasu Wiki](https://akurasu.net/wiki/Super_Robot_Wars/Complete_Box)
