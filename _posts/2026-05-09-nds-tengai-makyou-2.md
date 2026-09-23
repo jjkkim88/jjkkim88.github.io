@@ -19,6 +19,8 @@ image:
   <img src="/assets/img/posts/nds/tengaimakyou2_sc2.jpg" alt="천외마경 2 만지마루 NDS 스크린샷2">
 </div>
 
+### [천외마경 2 만지마루 NDS 한글패치판 롬파일 다운로드](https://link-center.net/538170/lq9OftgtXRNG)
+
 **천외마경 2 만지마루(天外魔境II 卍MARU)**는 허드슨이 1992년 3월 26일 PC엔진 SUPER CD-ROM²용으로 발매한 RPG로, 레드 컴퍼니와 알파 시스템이 개발에 참여했습니다. 닌텐도 DS판은 2006년 3월 9일 발매됐으며, 이듬해인 2007년 3월 15일에는 저가 재발매판인 **허드슨 더 베스트** 버전도 나왔습니다.
 
 당시 CD-ROM 매체를 활용해 방대한 음성 연출과 애니메이션을 넣은 것으로 유명했던 원작을 DS의 듀얼 스크린과 터치펜 입력에 맞춰 이식했으며, 일부 이벤트를 제외하면 원작에 충실하게 재현한 이식판으로 평가받습니다.
@@ -156,6 +158,8 @@ PC엔진 시절 방대한 제작 물량으로 유명했던 원작을 DS에서도
 
 ## 🔗 천외마경2 만지마루 참고 링크
 
+- [천외마경 2 만지마루 NDS 한글패치판 롬파일 다운로드](https://link-center.net/538170/lq9OftgtXRNG)
+- [천외마경 2 만지마루 NDS 일어판 롬파일 다운로드](https://terabox.com/s/1Nxvl9gtfJW4VKA3CiESG-w)
 - [天外魔境II 卍MARU - Wikipedia (日本語)](https://ja.wikipedia.org/wiki/天外魔境II_卍MARU)
 - [Tengai Makyō II: Manji Maru - Wikipedia](https://en.wikipedia.org/wiki/Tengai_Maky%C5%8D_II:_Manji_Maru)
 - [Tengai Makyō II: Manjimaru (Nintendo DS) - The Cutting Room Floor](https://tcrf.net/Tengai_Makyou_II:_Manjimaru_(Nintendo_DS))
