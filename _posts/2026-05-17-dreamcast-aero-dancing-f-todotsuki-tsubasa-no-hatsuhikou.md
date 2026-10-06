@@ -133,4 +133,4 @@ image:
 - [AeroWings - Wikipedia](https://en.wikipedia.org/wiki/AeroWings)
 - [The Dreamcast Junkyard: A Beginner's Guide To Aero Dancing & AeroWings](https://www.thedreamcastjunkyard.co.uk/2017/05/a-beginners-guide-to-aero-dancing.html)
 - [エアロダンシングF 轟つばさの初飛行 - ピコピコ大百科](https://www.gavas.jp/products/detail.php?product_id=430)
-- [Aero Dancing (Series) Hub - ShinForce](http://www.shinforce.com/elite/aerodancing/)
+- [Aero Dancing (Series) Hub - ShinForce](https://www.shinforce.com/elite/aerodancing/)
