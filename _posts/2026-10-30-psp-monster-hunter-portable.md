@@ -2,7 +2,7 @@
 title: "(PSP) 몬스터헌터 포터블 (モンスターハンターポータブル)"
 description: "PSP 몬스터헌터 포터블 소개. PS2판 몬스터헌터 G를 휴대용으로 재구성한 시리즈 첫 PSP 작품, 소재 수집과 장비 강화 사이클, 애드혹 통신 협력 플레이까지 정리합니다."
 published: true
-date: 2026-11-01
+date: 2026-10-30
 categories: [PSP]
 tags: [PSP, 액션RPG, 몬스터헌터, 캡콤, Capcom, 헌팅액션]
 image:

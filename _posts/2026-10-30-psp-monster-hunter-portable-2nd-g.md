@@ -2,7 +2,7 @@
 title: "(PSP) 몬스터헌터 포터블 2nd G (モンスターハンターポータブル 2nd G)"
 description: "PSP 몬스터헌터 포터블 2nd G 소개. 전작 데이터 연동과 G급 퀘스트, 신규 몬스터와 필드, 동료 아이루까지 더해 누적 350만 장을 돌파한 시리즈 최고 인기작을 정리합니다."
 published: true
-date: 2026-10-31
+date: 2026-10-30
 categories: [PSP]
 tags: [PSP, 액션RPG, 몬스터헌터, 캡콤, Capcom, 헌팅액션]
 image:
