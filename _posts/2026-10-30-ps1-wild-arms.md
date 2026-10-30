@@ -2,7 +2,7 @@
 title: "(PS1) 와일드 암즈 (ワイルドアームズ)"
 description: "PS1 와일드 암즈 소개. 서부극과 중세 판타지가 결합된 행성 필가이아를 무대로 한 루디·세실리아·잭의 모험, ARM 무기와 퍼즐형 던전 시스템까지 시리즈 출발점을 정리합니다."
 published: true
-date: 2026-11-02
+date: 2026-10-30
 categories: [PS1]
 tags: [PS1, RPG, 와일드암즈, 미디어비전, Media.Vision, 턴제RPG]
 image:
