@@ -19,7 +19,7 @@ image:
   <img src="/assets/img/posts/sfc/dbzrpg_sc2.jpg" alt="드래곤볼 Z 초사이어인 전설 SFC 스크린샷2">
 </div>
 
-### [드래곤볼 Z 초사이어인 전설 SFC 한글패치판 롬파일 다운로드](https://direct-link.net/538170/K8QkGilHcNAY)
+### [드래곤볼 Z 초사이어인 전설 SFC 한글패치판 롬파일 다운로드](https://link-target.net/538170/7Oq5z0XFz7bz)
 
 **드래곤볼 Z 초사이어인 전설(ドラゴンボールZ 超サイヤ伝説)**은 1992년 반다이가 발매한 슈퍼 패미컴용 RPG로, 토세가 개발을 맡았습니다. 패미컴으로 먼저 나왔던 **드래곤볼Z 강습! 사이어인**과 **드래곤볼Z2 격신 프리저**의 시스템과 스토리를 이어받아, 원작 만화·애니메이션의 사이어인 편부터 나메크성·프리저 편까지를 하나의 작품에 담아낸 SFC 드래곤볼 RPG의 대표작입니다.
 
@@ -171,6 +171,7 @@ FC 2부작의 흐름을 이어받으면서도, SFC의 향상된 표현력으로 
 ## 🔗 참고 링크
 
 - [드래곤볼 Z 초사이어인 전설 SFC 한글패치판 롬파일 다운로드](https://direct-link.net/538170/K8QkGilHcNAY)
+- [드래곤볼 Z 초사이어인 전설 SFC 한글패치판(v1.1) 롬파일 다운로드](https://link-target.net/538170/7Oq5z0XFz7bz)
 - [드래곤볼 Z 초사이어인 전설 SFC 일어판 롬파일 다운로드](https://1024terabox.com/s/17iqgpWBR-quBH1C8AiPNzQ)
 - [드래곤볼 Z 초사이어인 전설 — 나무위키](https://namu.wiki/w/%EB%93%9C%EB%9E%98%EA%B3%A4%EB%B3%BC%20Z%20%EC%B4%88%EC%82%AC%EC%9D%B4%EC%96%B4%EC%9D%B8%20%EC%A0%84%EC%84%A4)
 - [ドラゴンボールZ 超サイヤ伝説 — Dragon Ball Wiki (Fandom)](https://dragonball.fandom.com/ja/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%ABZ_%E8%B6%85%E3%82%B5%E3%82%A4%E3%83%A4%E4%BC%9D%E8%AA%AC)
